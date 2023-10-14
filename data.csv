@@ -1,0 +1,1553 @@
+,hotel_names,city_names,counrtys,contenantels,ratings,reviews
+0,Mercure Hotel Khamis Mushayt,khamis mushayt,saudi arabia,middle east,(3.0),108
+1,Mercure Al Khobar Hotel,al khobar,saudi arabia,middle east,(3.5),213
+2,Mövenpick Al Khobar,al khobar,saudi arabia,middle east,(4.5),798
+3,Sofitel Al Khobar The Corniche,al khobar,saudi arabia,middle east,(4.5),1038
+4,Mövenpick Al Khobar Beach,al khobar,saudi arabia,middle east,(4.5),798
+5,Novotel Dammam Business Park,dammam,saudi arabia,middle east,(4.0),374
+6,Sofitel Al Khobar The Corniche,dammam,saudi arabia,middle east,(4.5),1038
+7,Mercure Al Khobar Hotel,dammam,saudi arabia,middle east,(3.5),213
+8,ibis Yanbu Saudi Arabia,yanbu,saudi arabia,middle east,(4.0),163
+9,Novotel Yanbu,yanbu,saudi arabia,middle east,(4.5),146
+10,Novotel Jazan,jizan,saudi arabia,middle east,(4.5),73
+11,Shaden Resort,al ula,saudi arabia,middle east,nan,
+12,Banyan Tree AlUla,al ula,saudi arabia,middle east,nan,
+13,Novotel Suites Riyadh Olaya,riyadh,saudi arabia,middle east,(3.5),228
+14,Novotel Riyadh Al Anoud,riyadh,saudi arabia,middle east,(4.0),461
+15,ibis Riyadh Olaya Street,riyadh,saudi arabia,middle east,(3.5),407
+16,Novotel Suites Riyadh Dyar,riyadh,saudi arabia,middle east,(3.0),115
+17,Mövenpick Hotel and Residences Riyadh,riyadh,saudi arabia,middle east,nan,
+18,Fairmont Riyadh,riyadh,saudi arabia,middle east,(4.5),168
+19,Fairmont Ramla Serviced Residences,riyadh,saudi arabia,middle east,nan,
+20,Mövenpick Qassim,buraydah,saudi arabia,middle east,(4.5),186
+21,ibis Jeddah City Center,jeddah,saudi arabia,middle east,(4.0),122
+22,Adagio Jeddah City Center,jeddah,saudi arabia,middle east,(5.0),23
+23,Mövenpick Jeddah,jeddah,saudi arabia,middle east,(4.0),568
+24,Novotel Jeddah Tahlia Street,jeddah,saudi arabia,middle east,(4.5),496
+25,Mövenpick Hotel Tahlia Jeddah,jeddah,saudi arabia,middle east,(4.5),75
+26,Swissôtel Living Jeddah,jeddah,saudi arabia,middle east,nan,
+27,Mövenpick Jeddah City Star,jeddah,saudi arabia,middle east,(4.5),467
+28,Adagio Aparthotel Jeddah Malik Road,jeddah,saudi arabia,middle east,(4.0),33
+29,Mövenpick Jeddah Al Nawras,jeddah,saudi arabia,middle east,(3.5),423
+30,ibis Jeddah Malik Road,jeddah,saudi arabia,middle east,(4.5),76
+31,Pullman ZamZam Makkah,jeddah,saudi arabia,middle east,(4.0),2722
+32,Hibatullah Hotel - Managed by AccorHotels,mecca,saudi arabia,middle east,(3.5),49
+33,Mövenpick Makkah,mecca,saudi arabia,middle east,(4.5),1826
+34,Pullman ZamZam Makkah,mecca,saudi arabia,middle east,(4.0),2722
+35,Raffles Makkah Palace,mecca,saudi arabia,middle east,(4.5),2108
+36,Swissôtel Al Maqam Makkah,mecca,saudi arabia,middle east,(4.5),3121
+37,Fairmont Makkah Clock Royal Tower,mecca,saudi arabia,middle east,(4.0),4428
+38,Swissôtel Makkah,mecca,saudi arabia,middle east,(4.5),3121
+39,Novotel Makkah Thakher City,mecca,saudi arabia,middle east,nan,
+40,ibis Styles Makkah,mecca,saudi arabia,middle east,(4.0),57
+41,Shahd Al Madinah Hotel,madinah,saudi arabia,middle east,nan,
+42,Anwar Al Madinah Mövenpick,madinah,saudi arabia,middle east,(4.0),1978
+43,Pullman Zamzam Madina,madinah,saudi arabia,middle east,(4.5),1314
+44,Mövenpick Aqaba,aqaba,jordan,middle east,(4.5),4030
+45,Mövenpick Tala Bay,aqaba,jordan,middle east,(4.5),5599
+46,Fairmont Amman,amman,jordan,middle east,(5.0),1997
+47,Mövenpick Hotel Amman,amman,jordan,middle east,(4.5),1440
+48,ibis Amman,amman,jordan,middle east,(4.0),1013
+49,Mövenpick Dead Sea Jordan,amman,jordan,middle east,(4.5),6896
+50,Mövenpick Petra,petra,jordan,middle east,(4.0),4766
+51,Mövenpick Nabatean Castle,petra,jordan,middle east,(3.5),454
+52,Theatron Jerusalem Hotel & Spa MGallery Collection,jerusalem,israel,middle east,nan,
+53,ibis Styles Jerusalem City Center,jerusalem,israel,middle east,(4.0),37
+54,ibis Jerusalem City Center,jerusalem,israel,middle east,(4.0),639
+55,Elkonin Tel Aviv Hotel - MGallery,tel aviv,israel,middle east,nan,
+56,Fairmont Doha,doha,qatar,middle east,nan,
+57,Raffles Doha,doha,qatar,middle east,nan,
+58,Pullman Doha West Bay,doha,qatar,middle east,nan,
+59,Mövenpick Doha,doha,qatar,middle east,(4.5),1333
+60,Banyan Tree Doha,doha,qatar,middle east,nan,
+61,Alwadi Hotel Doha - MGallery,doha,qatar,middle east,(5.0),1450
+62,Rixos Gulf Hotel Doha,doha,qatar,middle east,nan,
+63,La Cigale Hotel Managed by Accor,doha,qatar,middle east,(4.5),700
+64,ibis Doha,doha,qatar,middle east,nan,
+65,Adagio Doha,doha,qatar,middle east,nan,
+66,ibis Kuwait Salmiya,salmiya,kuwait,middle east,(4.5),1090
+67,ibis Sharq,kuwait city,kuwait,middle east,(4.0),641
+68,ibis Kuwait Salmiya,kuwait city,kuwait,middle east,(4.5),1090
+69,Mövenpick Kuwait Al Bidaa,kuwait city,kuwait,middle east,(4.5),1332
+70,Mövenpick Kuwait,kuwait city,kuwait,middle east,(4.5),1089
+71,Mercure Sohar,sohar,oman,middle east,(5.0),680
+72,ibis Muscat,muscat,oman,middle east,(4.5),2239
+73,Novotel Muscat Airport,muscat,oman,middle east,(4.5),832
+74,Raffles The Palm,dubai,united arab emirates,middle east,(5.0),1776
+75,Fairmont The Palm,dubai,united arab emirates,middle east,(4.5),11178
+76,Sofitel Dubai The Palm,dubai,united arab emirates,middle east,(4.5),12914
+77,Rixos Premium Dubai JBR,dubai,united arab emirates,middle east,(5.0),6877
+78,Mövenpick Jumeirah Beach,dubai,united arab emirates,middle east,(4.5),6471
+79,The Retreat Palm Dubai MGallery by Sofitel,dubai,united arab emirates,middle east,(4.5),4347
+80,Rixos The Palm Hotel & Suites,dubai,united arab emirates,middle east,(5.0),9216
+81,Sofitel Dubai Jumeirah Beach,dubai,united arab emirates,middle east,(4.5),12220
+82,Rixos The Palm Luxury Suite Collection,dubai,united arab emirates,middle east,(5.0),9220
+83,Pullman Dubai Jumeirah Lakes Towers - Hotel & Residence,dubai,united arab emirates,middle east,(4.5),3807
+84,Mövenpick Jumeirah Lakes Towers,dubai,united arab emirates,middle east,(4.5),3139
+85,Grand Plaza Mövenpick Media City,dubai,united arab emirates,middle east,(5.0),1815
+86,jumeirah beach residence,dubai,united arab emirates,middle east,nan,
+87,dubai al barsha,dubai,united arab emirates,middle east,nan,
+88,the palm jumeirah dubai,dubai,united arab emirates,middle east,nan,
+89,dubai international airport,dubai,united arab emirates,middle east,nan,
+90,"deira, dubai",dubai,united arab emirates,middle east,nan,
+91,mall of the emirates dubai,dubai,united arab emirates,middle east,nan,
+92,dubai marina,dubai,united arab emirates,middle east,nan,
+93,Majlis Grand Mercure Residence Abu Dhabi,abu dhabi,united arab emirates,middle east,(4.5),578
+94,Sofitel Abu Dhabi Corniche,abu dhabi,united arab emirates,middle east,(4.5),5179
+95,Rixos Marina Abu Dhabi,abu dhabi,united arab emirates,middle east,nan,
+96,Aparthotel Adagio Abu Dhabi Al Bustan,abu dhabi,united arab emirates,middle east,(4.5),1091
+97,Novotel Abu Dhabi Al Bustan,abu dhabi,united arab emirates,middle east,(4.5),2590
+98,Rixos Premium Saadiyat Island,abu dhabi,united arab emirates,middle east,(4.5),3558
+99,Club Privé By Rixos Saadiyat,abu dhabi,united arab emirates,middle east,nan,
+100,Fairmont Bab Al Bahr - Abu Dhabi,abu dhabi,united arab emirates,middle east,(4.5),7072
+101,Novotel Abu Dhabi Gate,abu dhabi,united arab emirates,middle east,(4.5),1399
+102,ibis Abu Dhabi Gate,abu dhabi,united arab emirates,middle east,(4.5),1277
+103,ibis Styles Sharjah,sharjah,united arab emirates,middle east,(4.5),385
+104,PULLMAN SHARJAH,sharjah,united arab emirates,middle east,(4.5),219
+105,Novotel Sharjah Expo Centre,sharjah,united arab emirates,middle east,(5.0),845
+106,ibis Dubai Al Rigga,sharjah,united arab emirates,middle east,(4.5),2733
+107,ibis Dubai Deira City Centre,sharjah,united arab emirates,middle east,(4.0),2586
+108,Novotel Dubai Deira City Centre,sharjah,united arab emirates,middle east,(4.5),2788
+109,Novotel Suites Dubai Mall of the Emirates,sharjah,united arab emirates,middle east,(4.5),3686
+110,ibis Dubai Mall of the Emirates,sharjah,united arab emirates,middle east,(4.5),2549
+111,Aparthotel Adagio Fujairah,fujairah,united arab emirates,middle east,(5.0),133
+112,Novotel Fujairah,fujairah,united arab emirates,middle east,(4.5),894
+113,ibis Fujairah,fujairah,united arab emirates,middle east,(4.5),390
+114,Fairmont Fujairah Beach Resort,fujairah,united arab emirates,middle east,(4.5),2684
+115,Marjan Island Resort & Spa - Managed by ACCOR,ras al khaimah,united arab emirates,middle east,(4.5),3436
+116,Mövenpick Resort Al Marjan Island,ras al khaimah,united arab emirates,middle east,(4.5),588
+117,Rixos Bab Al Bahr,ras al khaimah,united arab emirates,middle east,nan,
+118,Fairmont Fujairah Beach Resort,ras al khaimah,united arab emirates,middle east,(4.5),2684
+119,Fairmont Ajman,ajman,united arab emirates,middle east,(4.5),3304
+120,Mercure Grand Jebel Hafeet Al Ain Hotel,al ain,united arab emirates,middle east,(4.0),1565
+121,Sofitel Bahrain Zallaq Thalassa sea & spa,zallaq,bahrain,middle east,(5.0),4935
+122,ibis Styles Manama Diplomatic Area,manama,bahrain,middle east,(4.5),160
+123,ibis Seef Manama,manama,bahrain,middle east,(4.0),516
+124,Novotel Bahrain Al Dana Resort,manama,bahrain,middle east,(4.5),1325
+125,Mercure Grand Hotel Seef - All Suites,manama,bahrain,middle east,(4.5),1136
+126,Mövenpick Bahrain,manama,bahrain,middle east,(4.5),987
+127,Sofitel Bahrain Zallaq Thalassa sea & spa,manama,bahrain,middle east,(5.0),4935
+128,Al Areen Palace & Spa by Accor,manama,bahrain,middle east,(5.0),1819
+129,Mövenpick Beirut,beirut,lebanon,middle east,(4.5),1254
+130,Sofitel Beirut Le Gabriel,beirut,lebanon,middle east,(4.5),338
+131,Peppers Christchurch Clearwater Resort,"south island, new zealand",new zealand,australia pacific,(4.0),1147
+132,Novotel Christchurch Cathedral Square,"south island, new zealand",new zealand,australia pacific,(4.0),1453
+133,BreakFree The Point Queenstown,"south island, new zealand",new zealand,australia pacific,(4.0),426
+134,ibis Styles Invercargill,"south island, new zealand",new zealand,australia pacific,(3.5),396
+135,ibis Christchurch,"south island, new zealand",new zealand,australia pacific,(4.0),1217
+136,BreakFree on Cashel Christchurch,"south island, new zealand",new zealand,australia pacific,(4.0),3476
+137,Peppers Bluewater Resort Lake Tekapo,"south island, new zealand",new zealand,australia pacific,(3.5),4682
+138,Novotel Christchurch Airport,"south island, new zealand",new zealand,australia pacific,(4.5),193
+139,Novotel Queenstown Lakeside,"south island, new zealand",new zealand,australia pacific,(4.0),3937
+140,Mercure Queenstown Resort,"south island, new zealand",new zealand,australia pacific,(4.0),1901
+141,Peppers Beacon Queenstown,"south island, new zealand",new zealand,australia pacific,(4.0),2026
+142,Hotel St Moritz Queenstown - MGallery,"south island, new zealand",new zealand,australia pacific,(4.5),2594
+143,lake tekapo,"south island, new zealand",new zealand,australia pacific,nan,
+144,christchurch,"south island, new zealand",new zealand,australia pacific,nan,
+145,invercargill,"south island, new zealand",new zealand,australia pacific,nan,
+146,queenstown,"south island, new zealand",new zealand,australia pacific,nan,
+147,Mövenpick Hotel Auckland,"north island, new zealand",new zealand,australia pacific,nan,
+148,The Sebel Auckland Manukau,"north island, new zealand",new zealand,australia pacific,(4.5),155
+149,Novotel Rotorua Lakeside,"north island, new zealand",new zealand,australia pacific,(4.0),3233
+150,"Fable Auckland, MGallery","north island, new zealand",new zealand,australia pacific,(4.5),1028
+151,ibis Auckland Ellerslie,"north island, new zealand",new zealand,australia pacific,(4.0),797
+152,ibis Hamilton Tainui,"north island, new zealand",new zealand,australia pacific,(4.0),1126
+153,Sofitel Wellington,"north island, new zealand",new zealand,australia pacific,(4.5),667
+154,SO/ Auckland,"north island, new zealand",new zealand,australia pacific,(4.0),281
+155,The Sebel Wellington Lower Hutt,"north island, new zealand",new zealand,australia pacific,(3.5),10
+156,Novotel Auckland Airport,"north island, new zealand",new zealand,australia pacific,(4.5),5487
+157,ibis Wellington,"north island, new zealand",new zealand,australia pacific,(4.0),2688
+158,Mercure Auckland Queen Street,"north island, new zealand",new zealand,australia pacific,(3.5),49
+159,ellerslie,"north island, new zealand",new zealand,australia pacific,nan,
+160,auckland,"north island, new zealand",new zealand,australia pacific,nan,
+161,hamilton,"north island, new zealand",new zealand,australia pacific,nan,
+162,new plymouth,"north island, new zealand",new zealand,australia pacific,nan,
+163,pauanui,"north island, new zealand",new zealand,australia pacific,nan,
+164,rotorua,"north island, new zealand",new zealand,australia pacific,nan,
+165,wellington,"north island, new zealand",new zealand,australia pacific,nan,
+166,Mercure Darwin Airport Resort,northern territory,australia,australia pacific,(3.5),934
+167,Novotel Darwin Airport,northern territory,australia,australia pacific,(3.5),490
+168,Emu Walk Apartments,northern territory,australia,australia pacific,(4.0),1430
+169,Mercure Alice Springs Resort,northern territory,australia,australia pacific,(4.0),1570
+170,Mantra on the Esplanade Darwin,northern territory,australia,australia pacific,(4.0),2458
+171,Mercure Kakadu Crocodile Hotel,northern territory,australia,australia pacific,(3.5),1784
+172,Sails in the Desert - A member of Pullman Hotels,northern territory,australia,australia pacific,(4.0),4768
+173,The Lost Camel Hotel - A member of Mercure Hotels,northern territory,australia,australia pacific,(4.0),409
+174,Novotel Darwin CBD,northern territory,australia,australia pacific,(3.5),1783
+175,Outback Hotel & Lodge - A member of ibis Styles,northern territory,australia,australia pacific,(3.5),3020
+176,Desert Gardens - A member of Novotel Hotels,northern territory,australia,australia pacific,(4.0),4022
+177,Mantra Pandanas Darwin,northern territory,australia,australia pacific,(4.0),1399
+178,darwin and surrounds,northern territory,australia,australia pacific,nan,
+179,central australia,northern territory,australia,australia pacific,nan,
+180,Mercure Canberra,australian capital territory,australia,australia pacific,(4.0),2247
+181,Mantra on Northbourne Canberra,australian capital territory,australia,australia pacific,(4.0),2214
+182,Novotel Canberra,australian capital territory,australia,australia pacific,(3.5),3999
+183,ibis budget Canberra,australian capital territory,australia,australia pacific,(3.0),521
+184,Peppers Gallery Hotel Canberra,australian capital territory,australia,australia pacific,(4.0),2320
+185,Mercure Canberra Belconnen,australian capital territory,australia,australia pacific,(4.5),94
+186,ibis Styles Canberra,australian capital territory,australia,australia pacific,(3.0),1325
+187,ibis Styles Canberra Tall Trees,australian capital territory,australia,australia pacific,(3.5),602
+188,BreakFree Capital Tower Canberra,australian capital territory,australia,australia pacific,(3.5),1249
+189,ibis Styles Canberra Eaglehawk,australian capital territory,australia,australia pacific,(3.0),554
+190,The Sebel Canberra Campbell,australian capital territory,australia,australia pacific,(4.5),4
+191,Mantra MacArthur Canberra,australian capital territory,australia,australia pacific,(4.0),884
+192,canberra and surrounds,australian capital territory,australia,australia pacific,nan,
+193,ibis Styles Karratha,western australia,australia,australia pacific,(3.5),235
+194,Grand Mercure Basildene Manor Accor Vacation Club Apartments,western australia,australia,australia pacific,(5.0),1139
+195,The Sebel Mandurah,western australia,australia,australia pacific,(4.0),1270
+196,The Adnate Perth - Art Series,western australia,australia,australia pacific,(4.5),117
+197,Tribe Perth Kings Park,western australia,australia,australia pacific,(4.5),1101
+198,Mantra on Hay Perth,western australia,australia,australia pacific,(4.0),1909
+199,Novotel Swan Valley Vines Resort,western australia,australia,australia pacific,(3.5),1173
+200,ibis Styles East Perth,western australia,australia,australia pacific,(4.0),91
+201,ibis Perth,western australia,australia,australia pacific,(3.5),1560
+202,The Sebel West Perth Aire Apartments,western australia,australia,australia pacific,(4.5),99
+203,Pullman Bunker Bay Resort Margaret River Region,western australia,australia,australia pacific,(4.0),2554
+204,ibis Styles Albany,western australia,australia,australia pacific,(3.5),786
+205,perth and south west,western australia,australia,australia pacific,nan,
+206,midwest and gascoyne,western australia,australia,australia pacific,nan,
+207,pilbarra,western australia,australia,australia pacific,nan,
+208,kimberley,western australia,australia,australia pacific,nan,
+209,Novotel Wollongong Northbeach,new south wales,australia,australia pacific,(4.0),2811
+210,Pullman Quay Grand Sydney Harbour,new south wales,australia,australia pacific,(4.5),1886
+211,Mercure Penrith,new south wales,australia,australia pacific,(4.0),179
+212,Mercure Albury,new south wales,australia,australia pacific,(4.0),247
+213,ibis budget Dubbo,new south wales,australia,australia pacific,(3.5),593
+214,ibis Sydney Thornleigh,new south wales,australia,australia pacific,(4.0),589
+215,Pullman Magenta Shores Resort,new south wales,australia,australia pacific,(4.0),877
+216,Mantra Pavilion Hotel Wagga Wagga,new south wales,australia,australia pacific,(3.5),374
+217,ibis Sydney Barangaroo,new south wales,australia,australia pacific,(3.5),1304
+218,Mercure Goulburn,new south wales,australia,australia pacific,(4.5),992
+219,Mercure Sydney Rouse Hill,new south wales,australia,australia pacific,(4.5),53
+220,ibis Styles Tamworth,new south wales,australia,australia pacific,(3.5),583
+221,central west,new south wales,australia,australia pacific,nan,
+222,sydney and blue mountains,new south wales,australia,australia pacific,nan,
+223,"snowy mtns, illawarra and south coast",new south wales,australia,australia pacific,nan,
+224,central coast,new south wales,australia,australia pacific,nan,
+225,outback nsw,new south wales,australia,australia pacific,nan,
+226,new england and riverina,new south wales,australia,australia pacific,nan,
+227,hunter valley and north coast,new south wales,australia,australia pacific,nan,
+228,Adelaide Rockford,south australia,australia,australia pacific,(4.0),1149
+229,Sofitel Adelaide,south australia,australia,australia pacific,(4.0),167
+230,Grosvenor Hotel Adelaide,south australia,australia,australia pacific,(3.0),3050
+231,Novotel Barossa Valley Resort,south australia,australia,australia pacific,(4.0),2729
+232,The Playford Adelaide - MGallery,south australia,australia,australia pacific,(4.5),2853
+233,Mercure Kangaroo Island Lodge,south australia,australia,australia pacific,(4.0),779
+234,Mantra Hindmarsh Square Adelaide,south australia,australia,australia pacific,(4.0),2246
+235,The Watson Adelaide - Art Series,south australia,australia,australia pacific,(4.0),672
+236,Mount Lofty House,south australia,australia,australia pacific,(5.0),1051
+237,Pullman Adelaide,south australia,australia,australia pacific,(4.5),2348
+238,BreakFree Wirrina Cove,south australia,australia,australia pacific,(4.0),98
+239,ibis Styles Adelaide Manor,south australia,australia,australia pacific,(4.0),126
+240,kangaroo island,south australia,australia,australia pacific,nan,
+241,"adelaide, barossa and surrounds",south australia,australia,australia pacific,nan,
+242,Mercure Hotel Mildura,victoria,australia,australia pacific,(4.0),736
+243,Mercure Bendigo Schaller,victoria,australia,australia pacific,(4.0),1777
+244,ibis budget Fawkner,victoria,australia,australia pacific,(3.0),318
+245,Mantra Lorne,victoria,australia,australia pacific,(3.5),4983
+246,Mövenpick Hotel Melbourne On Spencer,victoria,australia,australia pacific,(4.0),88
+247,The Sebel Melbourne Docklands,victoria,australia,australia pacific,(4.0),930
+248,ibis budget Dandenong,victoria,australia,australia pacific,(3.0),139
+249,Mercure Ballarat - Hotel & Convention Centre,victoria,australia,australia pacific,(4.0),651
+250,Mantra Melbourne Melton,victoria,australia,australia pacific,(4.0),87
+251,ibis Melbourne Central,victoria,australia,australia pacific,(4.5),283
+252,Hotel Chadstone Melbourne - MGallery by Sofitel,victoria,australia,australia pacific,(4.0),154
+253,The Sebel Yarrawonga Silverwoods,victoria,australia,australia pacific,(4.0),94
+254,high country and gippsland,victoria,australia,australia pacific,nan,
+255,murray outback,victoria,australia,australia pacific,nan,
+256,great ocean road and grampians,victoria,australia,australia pacific,nan,
+257,"melbourne, yarra valley and goldfields",victoria,australia,australia pacific,nan,
+258,lakes and wilderness,victoria,australia,australia pacific,nan,
+259,ibis Styles Hobart,tasmania,australia,australia pacific,(4.0),706
+260,The Sebel Launceston,tasmania,australia,australia pacific,(4.5),1147
+261,Mantra One Sandy Bay Road Hobart,tasmania,australia,australia pacific,(4.0),1164
+262,Peppers Cradle Mountain Lodge,tasmania,australia,australia pacific,(4.0),3309
+263,Mantra Charles Hotel Launceston,tasmania,australia,australia pacific,(4.5),2222
+264,Mövenpick Hotel Hobart,tasmania,australia,australia pacific,(4.5),277
+265,Peppers Seaport Launceston,tasmania,australia,australia pacific,(4.5),1422
+266,Novotel Devonport,tasmania,australia,australia pacific,(4.0),37
+267,Peppers Silo Launceston,tasmania,australia,australia pacific,(4.5),935
+268,Mercure Launceston,tasmania,australia,australia pacific,(3.5),560
+269,Mantra on Collins Hobart,tasmania,australia,australia pacific,(4.0),1738
+270,southern tasmania,tasmania,australia,australia pacific,nan,
+271,north east tasmania,tasmania,australia,australia pacific,nan,
+272,north west tasmania,tasmania,australia,australia pacific,nan,
+273,Mantra Sun City Surfers Paradise,queensland,australia,australia pacific,(4.0),3163
+274,Mantra PortSea Port Douglas,queensland,australia,australia pacific,(3.5),2474
+275,Mantra Broadbeach on the Park,queensland,australia,australia pacific,(4.0),798
+276,Mercure Brisbane King George Square,queensland,australia,australia pacific,(4.0),1389
+277,BreakFree Beachpoint Surfers Paradise,queensland,australia,australia pacific,(4.0),452
+278,Novotel Sunshine Coast Resort,queensland,australia,australia pacific,(3.5),283
+279,Novotel Surfers Paradise,queensland,australia,australia pacific,(4.0),1341
+280,Mantra Circle on Cavill Surfers Paradise,queensland,australia,australia pacific,(4.0),4655
+281,Kingfisher Bay Resort Fraser Island,queensland,australia,australia pacific,(4.0),9755
+282,ibis budget Windsor Brisbane,queensland,australia,australia pacific,(3.5),237
+283,Mantra Zanzibar Mooloolaba,queensland,australia,australia pacific,(4.0),813
+284,BreakFree Grand Pacific Caloundra,queensland,australia,australia pacific,(4.0),1462
+285,brisbane and southwest queensland,queensland,australia,australia pacific,nan,
+286,gold coast,queensland,australia,australia pacific,nan,
+287,sunshine coast,queensland,australia,australia pacific,nan,
+288,"fraser coast, capricorn and mackay",queensland,australia,australia pacific,nan,
+289,tropical north,queensland,australia,australia pacific,nan,
+290,whitsundays,queensland,australia,australia pacific,nan,
+291,l'outback queensland,queensland,australia,australia pacific,nan,
+292,Sofitel Fiji Resort and Spa,denarau island,fiji islands,australia pacific,(4.0),5545
+293,Mercure Nadi,nadi,fiji islands,australia pacific,(3.0),1020
+294,Novotel Nadi,nadi,fiji islands,australia pacific,(3.0),1405
+295,Novotel Suva Lami Bay,suva,fiji islands,australia pacific,(3.5),761
+296,Sofitel Bora Bora Marara Beach Resort,vaitape,french polynesia,australia pacific,(4.0),1458
+297,Tahiti Ia Ora Beach Resort - Managed by Sofitel,punaauia,french polynesia,australia pacific,(3.5),2189
+298,Sofitel Kia Ora Moorea Beach Resort,maharepa,french polynesia,australia pacific,(4.5),4231
+299,Sofitel Bora Bora Private Island,nunue,french polynesia,australia pacific,(4.5),1132
+300,Sofitel Kia Ora Moorea Beach Resort,moorea,french polynesia,australia pacific,(4.5),4231
+301,Tahiti Ia Ora Beach Resort - Managed by Sofitel,papeete,french polynesia,australia pacific,(3.5),2189
+302,Sofitel Bora Bora Private Island,bora bora,french polynesia,australia pacific,(4.5),1132
+303,Sofitel Bora Bora Marara Beach Resort,bora bora,french polynesia,australia pacific,(4.0),1458
+304,Tahiti Ia Ora Beach Resort - Managed by Sofitel,tahiti,french polynesia,australia pacific,(3.5),2189
+305,Sofitel Kia Ora Moorea Beach Resort,tahiti,french polynesia,australia pacific,(4.5),4231
+306,Sofitel Bora Bora Marara Beach Resort,tahiti,french polynesia,australia pacific,(4.0),1458
+307,Sofitel Bora Bora Private Island,tahiti,french polynesia,australia pacific,(4.5),1132
+308,ibis Styles Buenos Aires Florida,buenos aires,argentina,south america,(4.0),52
+309,ibis Buenos Aires Obelisco,buenos aires,argentina,south america,(4.0),3921
+310,Novotel Buenos Aires,buenos aires,argentina,south america,(4.5),2199
+311,ibis Buenos Aires Congreso,buenos aires,argentina,south america,(4.0),2790
+312,SLS Buenos Aires Puerto Madero,buenos aires,argentina,south america,nan,
+313,Palladio Hotel Buenos Aires - MGallery,buenos aires,argentina,south america,(5.0),356
+314,Sofitel Buenos Aires Recoleta,buenos aires,argentina,south america,(4.5),1536
+315,Sofitel La Reserva Cardales,buenos aires,argentina,south america,(4.5),1721
+316,luna park,buenos aires,argentina,south america,nan,
+317,victoria,buenos aires,argentina,south america,nan,
+318,Pullman Rosario City Center,rosario,argentina,south america,(4.5),1610
+319,Mercure Rosario,rosario,argentina,south america,nan,
+320,Sofitel La Reserva Cardales,los cardales,argentina,south america,(4.5),1721
+321,Mercure Iguazu Hotel Iru,puerto iguazú,argentina,south america,(4.5),1001
+322,ibis Pilar,pilar,argentina,south america,(3.5),382
+323,Sofitel La Reserva Cardales,campana,argentina,south america,(4.5),1721
+324,ibis Mendoza,mendoza,argentina,south america,(3.5),1010
+325,Mercure Santa Rosa La Pampa,santa rosa,argentina,south america,(5.0),1320
+326,IBIS SANTA CRUZ DE LA SIERRA,santa cruz de la sierra,bolivia,south america,nan,
+327,Delfines Collection Hotel by Mercure,santa cruz de la sierra,bolivia,south america,nan,
+328,Novotel Santa Cruz de la Sierra,santa cruz de la sierra,bolivia,south america,nan,
+329,Swissôtel Santa Cruz De La Sierra,santa cruz de la sierra,bolivia,south america,nan,
+330,Hotel Jequitimar Guarujá,são paulo,brazil,south america,(4.5),3014
+331,Novotel Itu Terras de São José Golf & Resort,são paulo,brazil,south america,(4.0),845
+332,Ibis São Paulo Paulista,são paulo,brazil,south america,(4.0),3275
+333,ibis budget São Paulo Paulista,são paulo,brazil,south america,(3.5),5279
+334,ibis Sao Paulo Congonhas,são paulo,brazil,south america,(4.0),3376
+335,ibis budget São Paulo Paraiso,são paulo,brazil,south america,(3.5),2986
+336,ibis budget São Paulo Jardins,são paulo,brazil,south america,(3.5),3294
+337,ibis Sao Paulo Morumbi,são paulo,brazil,south america,(4.0),2844
+338,ibis Guarulhos,são paulo,brazil,south america,(3.5),3017
+339,Thermas de Olímpia Resorts by Mercure,são paulo,brazil,south america,(3.5),284
+340,Novotel Sao Paulo Jaragua Conventions,são paulo,brazil,south america,(4.0),3041
+341,Ibis Sao Paulo Barra Funda,são paulo,brazil,south america,(4.0),1532
+342,sao paulo city,são paulo,brazil,south america,nan,
+343,guaruja,são paulo,brazil,south america,nan,
+344,itu,são paulo,brazil,south america,nan,
+345,santos,são paulo,brazil,south america,nan,
+346,ribeirao preto,são paulo,brazil,south america,nan,
+347,guarulhos,são paulo,brazil,south america,nan,
+348,campinas,são paulo,brazil,south america,nan,
+349,sorocaba,são paulo,brazil,south america,nan,
+350,olímpia,são paulo,brazil,south america,nan,
+351,sao josé dos campos,são paulo,brazil,south america,nan,
+352,sao josé de rio preto,são paulo,brazil,south america,nan,
+353,jundiai,são paulo,brazil,south america,nan,
+354,Mercure Angra dos Reis,rio de janeiro,brazil,south america,(4.0),1463
+355,Novotel Rio de Janeiro Leme,rio de janeiro,brazil,south america,(4.5),2183
+356,ibis Copacabana Posto 5,rio de janeiro,brazil,south america,(4.0),1270
+357,ibis Rio de Janeiro Barra da Tijuca,rio de janeiro,brazil,south america,(4.0),1352
+358,Fairmont Rio de Janeiro Copacabana,rio de janeiro,brazil,south america,(4.5),2306
+359,ibis budget Copacabana RJ,rio de janeiro,brazil,south america,(4.0),725
+360,Novotel Rio de Janeiro Barra da Tijuca,rio de janeiro,brazil,south america,(4.0),1014
+361,ibis Copacabana Posto 2,rio de janeiro,brazil,south america,(4.0),2387
+362,ibis Rio de Janeiro Santos Dumont,rio de janeiro,brazil,south america,(4.0),3575
+363,ibis Rio de Janeiro Botafogo,rio de janeiro,brazil,south america,(4.0),2236
+364,ibis Rio de Janeiro Nova America,rio de janeiro,brazil,south america,(4.5),1006
+365,Grand Mercure Rio de Janeiro Copacabana,rio de janeiro,brazil,south america,(4.0),3824
+366,rio de janeiro,rio de janeiro,brazil,south america,nan,
+367,macae,rio de janeiro,brazil,south america,nan,
+368,copacabana,rio de janeiro,brazil,south america,nan,
+369,angra dos reis,rio de janeiro,brazil,south america,nan,
+370,nova iguacu,rio de janeiro,brazil,south america,nan,
+371,petropolis,rio de janeiro,brazil,south america,nan,
+372,três rios,rio de janeiro,brazil,south america,nan,
+373,ibis Belo Horizonte Afonso Pena,minas gerais,brazil,south america,(4.0),991
+374,Ibis Budget Patos de Minas,minas gerais,brazil,south america,(3.5),33
+375,ibis Guaxupé,minas gerais,brazil,south america,nan,
+376,ibis budget Belo Horizonte Afonso Pena,minas gerais,brazil,south america,(4.0),1505
+377,ibis Uberaba,minas gerais,brazil,south america,(3.5),563
+378,Novotel BH Savassi,minas gerais,brazil,south america,(4.5),288
+379,Mercure Belo Horizonte Lourdes,minas gerais,brazil,south america,(4.0),3179
+380,Mercure Belo Horizonte Savassi,minas gerais,brazil,south america,(4.0),637
+381,Caesar Business Belo Horizonte Belvedere,minas gerais,brazil,south america,(4.0),889
+382,ibis budget BH Savassi,minas gerais,brazil,south america,nan,
+383,Mercure Uberlandia Plaza Shopping,minas gerais,brazil,south america,(4.5),1049
+384,Ibis Styles Confins Airport,minas gerais,brazil,south america,(3.5),75
+385,belo horizonte,minas gerais,brazil,south america,nan,
+386,uberlandia,minas gerais,brazil,south america,nan,
+387,lagoa santa,minas gerais,brazil,south america,nan,
+388,pocos de caldas,minas gerais,brazil,south america,nan,
+389,contagem,minas gerais,brazil,south america,nan,
+390,betim,minas gerais,brazil,south america,nan,
+391,montes claros,minas gerais,brazil,south america,nan,
+392,juiz de fora,minas gerais,brazil,south america,nan,
+393,uberaba,minas gerais,brazil,south america,nan,
+394,itaúna,minas gerais,brazil,south america,nan,
+395,barbacena,minas gerais,brazil,south america,nan,
+396,divinopolis,minas gerais,brazil,south america,nan,
+397,ibis Curitiba Shopping,paraná,brazil,south america,(4.0),2913
+398,ibis Styles Curitiba Centro Cívico,paraná,brazil,south america,(4.0),1345
+399,ibis Maringa,paraná,brazil,south america,(4.0),1195
+400,ibis Londrina Shopping,paraná,brazil,south america,(4.0),562
+401,Grand Mercure Curitiba Rayon,paraná,brazil,south america,nan,
+402,ibis Paranagua,paraná,brazil,south america,(4.5),130
+403,ibis budget Curitiba Centro,paraná,brazil,south america,(3.5),2403
+404,ibis budget Maringa,paraná,brazil,south america,(3.5),461
+405,ibis budget Curitiba Aeroporto,paraná,brazil,south america,(4.0),183
+406,ibis Curitiba Batel,paraná,brazil,south america,(4.0),2061
+407,Novotel Curitiba Batel,paraná,brazil,south america,(4.5),733
+408,ibis Foz Do Iguacu,paraná,brazil,south america,(4.0),1740
+409,foz do iguacu,paraná,brazil,south america,nan,
+410,cascavel,paraná,brazil,south america,nan,
+411,paranagua,paraná,brazil,south america,nan,
+412,guarapuava,paraná,brazil,south america,nan,
+413,curitiba,paraná,brazil,south america,nan,
+414,londrina,paraná,brazil,south america,nan,
+415,ponta grossa,paraná,brazil,south america,nan,
+416,maringa,paraná,brazil,south america,nan,
+417,sao jose dos pinhais,paraná,brazil,south america,nan,
+418,Mercure Camboriu Hotel,santa catarina,brazil,south america,(4.0),2449
+419,ibis Florianopolis,santa catarina,brazil,south america,(4.0),2511
+420,ibis Styles Balneario Camboriu,santa catarina,brazil,south america,(4.5),1139
+421,Novotel Florianópolis,santa catarina,brazil,south america,(4.0),1591
+422,Mercure Florianópolis,santa catarina,brazil,south america,(4.0),1426
+423,Mercure Itajaí Navegantes,santa catarina,brazil,south america,(4.0),179
+424,ibis Sao Jose,santa catarina,brazil,south america,(4.0),982
+425,ibis Blumenau,santa catarina,brazil,south america,(4.0),1303
+426,Ibis budget Blumenau,santa catarina,brazil,south america,(3.5),227
+427,ibis Navegantes Itajai,santa catarina,brazil,south america,(3.5),934
+428,ibis Joinville,santa catarina,brazil,south america,(4.0),853
+429,Novotel Criciuma,santa catarina,brazil,south america,nan,
+430,florianopolis,santa catarina,brazil,south america,nan,
+431,balneario camboriu,santa catarina,brazil,south america,nan,
+432,itajai,santa catarina,brazil,south america,nan,
+433,blumenau,santa catarina,brazil,south america,nan,
+434,sao jose,santa catarina,brazil,south america,nan,
+435,joinville,santa catarina,brazil,south america,nan,
+436,criciuma,santa catarina,brazil,south america,nan,
+437,jaragua do sul,santa catarina,brazil,south america,nan,
+438,chapeco,santa catarina,brazil,south america,nan,
+439,palhoça,santa catarina,brazil,south america,nan,
+440,santa catarina,santa catarina,brazil,south america,nan,
+441,ibis budget Porto Alegre,rio grande do sul,brazil,south america,(3.5),1335
+442,ibis Porto Alegre Aeroporto,rio grande do sul,brazil,south america,(3.5),1680
+443,Novotel Porto Alegre Airport,rio grande do sul,brazil,south america,(4.0),1745
+444,Novotel Porto Alegre Tres Figueiras,rio grande do sul,brazil,south america,(4.0),915
+445,ibis Porto Alegre Assis Brasil,rio grande do sul,brazil,south america,(4.0),357
+446,ibis Porto Alegre Moinhos de Vento,rio grande do sul,brazil,south america,(4.0),1957
+447,ibis Styles Porto Alegre Centro,rio grande do sul,brazil,south america,(4.0),914
+448,ibis Passo Fundo Centro,rio grande do sul,brazil,south america,(3.5),575
+449,ibis Styles Porto Alegre Moinhos de Vento,rio grande do sul,brazil,south america,nan,
+450,ibis Caxias do Sul,rio grande do sul,brazil,south america,(4.0),1061
+451,ibis Igrejinha,rio grande do sul,brazil,south america,(4.5),83
+452,ibis Guaiba,rio grande do sul,brazil,south america,(4.0),45
+453,porto alegre,rio grande do sul,brazil,south america,nan,
+454,passo fundo,rio grande do sul,brazil,south america,nan,
+455,caxias do sul,rio grande do sul,brazil,south america,nan,
+456,igrejinha,rio grande do sul,brazil,south america,nan,
+457,guaiba,rio grande do sul,brazil,south america,nan,
+458,canoas,rio grande do sul,brazil,south america,nan,
+459,novo hamburgo,rio grande do sul,brazil,south america,nan,
+460,carlos barbosa,rio grande do sul,brazil,south america,nan,
+461,erechim,rio grande do sul,brazil,south america,nan,
+462,montenegro,rio grande do sul,brazil,south america,nan,
+463,nao me toque,rio grande do sul,brazil,south america,nan,
+464,Mercure Salvador Rio Vermelho,bahia,brazil,south america,(4.0),2950
+465,ibis Salvador Rio Vermelho,bahia,brazil,south america,(4.0),2723
+466,Novotel Salvador Rio Vermelho,bahia,brazil,south america,(3.5),1674
+467,ibis Salvador Airport,bahia,brazil,south america,(4.0),1694
+468,Mercure Salvador Boulevard,bahia,brazil,south america,(4.0),1063
+469,Mercure Salvador Pituba,bahia,brazil,south america,(4.0),689
+470,ibis Vitória da Conquista,bahia,brazil,south america,(4.0),447
+471,Novotel Salvador Hangar Aeroporto,bahia,brazil,south america,(4.5),1115
+472,ibis Feira de Santana,bahia,brazil,south america,(4.0),429
+473,Ibis Styles Vitória da Conquista,bahia,brazil,south america,(4.0),54
+474,Conect Smart Salvador by AccorHotels,bahia,brazil,south america,nan,
+475,Ibis Styles Alagoinhas,bahia,brazil,south america,(4.5),79
+476,salvador,bahia,brazil,south america,nan,
+477,vitória da conquista,bahia,brazil,south america,nan,
+478,feira  de santana,bahia,brazil,south america,nan,
+479,alagoinhas,bahia,brazil,south america,nan,
+480,itaparica,bahia,brazil,south america,nan,
+481,Grand Mercure Recife Boa Viagem,pernambuco,brazil,south america,(4.0),2275
+482,ibis Recife Aeroporto,pernambuco,brazil,south america,(4.5),926
+483,ibis Recife Boa Viagem,pernambuco,brazil,south america,(4.0),1998
+484,Mercure Recife Navegantes Hotel,pernambuco,brazil,south america,(3.5),1087
+485,ibis Petrolina,pernambuco,brazil,south america,(4.0),627
+486,ibis budget Recife Jaboatão,pernambuco,brazil,south america,nan,
+487,ibis Styles Garanhuns,pernambuco,brazil,south america,nan,
+488,recife,pernambuco,brazil,south america,nan,
+489,petrolina,pernambuco,brazil,south america,nan,
+490,garanhuns,pernambuco,brazil,south america,nan,
+491,pina,pernambuco,brazil,south america,nan,
+492,ibis Maceio Pajucara,alagoas,brazil,south america,(4.0),1688
+493,Mercure Maceio Pajucara,alagoas,brazil,south america,(4.0),1503
+494,Ibis budget Maceió Pajuçara,alagoas,brazil,south america,nan,
+495,ibis Arapiraca,alagoas,brazil,south america,(4.0),120
+496,maceio,alagoas,brazil,south america,nan,
+497,arapiraca,alagoas,brazil,south america,nan,
+498,ibis Fortaleza Praia de Iracema,ceará,brazil,south america,(4.0),2504
+499,ibis budget Fortaleza Praia de Iracema,ceará,brazil,south america,nan,
+500,Mercure Fortaleza Meireles,ceará,brazil,south america,(4.0),1123
+501,ibis Fortaleza Centro De Eventos,ceará,brazil,south america,(4.5),361
+502,ibis Caucaia Porto do Pecém,ceará,brazil,south america,nan,
+503,ibis Styles Maracanaú,ceará,brazil,south america,(4.0),63
+504,Ibis Juazeiro do Norte,ceará,brazil,south america,(4.5),26
+505,fortaleza,ceará,brazil,south america,nan,
+506,caucaia,ceará,brazil,south america,nan,
+507,maracanau,ceará,brazil,south america,nan,
+508,juazeiro do norte,ceará,brazil,south america,nan,
+509,ibis budget Belem,pará,brazil,south america,(3.5),1190
+510,Ibis Belém Airport,pará,brazil,south america,(3.5),772
+511,Mercure Belem Boulevard,pará,brazil,south america,(4.0),725
+512,Grand Mercure Belém do Pará,pará,brazil,south america,(4.0),229
+513,Ibis Styles Belém Nazaré,pará,brazil,south america,(3.5),529
+514,Ibis Styles Belém Batista Campos,pará,brazil,south america,(4.0),497
+515,Ibis Styles Parauapebas,pará,brazil,south america,(4.0),107
+516,Ibis Parauapebas,pará,brazil,south america,(3.5),10
+517,Ibis Styles Belem Hangar,pará,brazil,south america,nan,
+518,Ibis Styles Belem do Pará,pará,brazil,south america,nan,
+519,Ibis Budget Parauapebas,pará,brazil,south america,(4.0),4
+520,belem,pará,brazil,south america,nan,
+521,parauapebas,pará,brazil,south america,nan,
+522,ibis Styles Brasilia Aeroporto,distrito federal,brazil,south america,(4.0),1558
+523,Mercure Brasilia Leader,distrito federal,brazil,south america,(4.0),2121
+524,Grand Mercure Brasilia Eixo Monumental,distrito federal,brazil,south america,(4.5),1302
+525,brasilia,distrito federal,brazil,south america,nan,
+526,Mercure Santiago Centro,santiago,chile,south america,(4.0),1419
+527,ibis budget Santiago Providencia,santiago,chile,south america,(4.0),85
+528,ibis Santiago Providencia,santiago,chile,south america,(4.0),4564
+529,ibis Santiago Estacion Central,santiago,chile,south america,(3.5),2320
+530,Novotel Santiago Providencia,santiago,chile,south america,(4.5),286
+531,Pullman Santiago El Bosque,santiago,chile,south america,(4.5),3554
+532,Pullman Santiago Vitacura,santiago,chile,south america,(4.5),2877
+533,Novotel Santiago Vitacura,santiago,chile,south america,(4.0),1148
+534,Novotel Santiago Las Condes,santiago,chile,south america,(4.5),3551
+535,ibis Santiago Las Condes Manquehue,santiago,chile,south america,(3.5),1567
+536,Novotel Arica,arica,chile,south america,nan,
+537,Ibis Styles Antofagasta,antofagasta,chile,south america,nan,
+538,ibis Antofagasta,antofagasta,chile,south america,(3.5),729
+539,ibis budget Calama,calama,chile,south america,(3.0),110
+540,ibis Calama,calama,chile,south america,(3.0),52
+541,ibis Concepción,concepcion,chile,south america,(4.0),924
+542,Mercure Concepción,concepcion,chile,south america,nan,
+543,ibis budget Copiapo,copiapo,chile,south america,(3.5),60
+544,ibis Copiapo,copiapo,chile,south america,(3.5),95
+545,ibis Iquique,iquique,chile,south america,(3.5),72
+546,ibis budget Iquique,iquique,chile,south america,(3.0),143
+547,Novotel Puerto Montt,puerto montt,chile,south america,nan,
+548,ibis Puerto Montt,puerto montt,chile,south america,(3.5),210
+549,ibis Valparaiso,valparaiso,chile,south america,(4.0),2070
+550,Pullman Vina del Mar San Martín,vina del mar,chile,south america,(4.0),947
+551,Novotel Viña del Mar,vina del mar,chile,south america,(3.5),147
+552,ibis Bogota Museo,bogota,colombia,south america,(4.0),1713
+553,ibis budget Bogota Marly,bogota,colombia,south america,nan,
+554,Mercure Bogota BH Zona Financiera,bogota,colombia,south america,(4.0),231
+555,Mercure Bogota Bh Retiro,bogota,colombia,south america,(4.0),268
+556,Sofitel Bogota Victoria Regia,bogota,colombia,south america,(4.5),1422
+557,Novotel Bogotá Parque 93,bogota,colombia,south america,(4.5),2282
+558,Mercure Bogotá Calle 100,bogota,colombia,south america,(4.5),813
+559,ibis Cali Granada,cali,colombia,south america,(4.5),156
+560,Sofitel Baru Calablanca,cartagène,colombia,south america,(5.0),543
+561,Hotel Boutique Bovedas de Santa Clara By Accor,cartagène,colombia,south america,(4.5),309
+562,Sofitel Legend Santa Clara Cartagena,cartagène,colombia,south america,(4.5),2775
+563,ibis Cartagena Marbella,cartagène,colombia,south america,(4.0),994
+564,ibis Medellin,medellin,colombia,south america,(4.0),1386
+565,JO&JOE Medellín,medellin,colombia,south america,nan,
+566,Novotel Medellín El Tesoro,medellin,colombia,south america,(4.5),831
+567,ibis budget Barranquilla,barranquilla,colombia,south america,(3.0),13
+568,ibis Barranquilla,barranquilla,colombia,south america,(4.0),68
+569,Mercure Santa Marta Emile,santa marta,colombia,south america,(4.5),478
+570,ibis Apartadó,apartado,colombia,south america,(4.5),27
+571,ibis budget Itagüí,itagüí,colombia,south america,(4.5),64
+572,ibis Chia,chia,colombia,south america,nan,
+573,ibis Cúcuta,cucuta,colombia,south america,(4.0),47
+574,Mercure Alameda Quito,quito,ecuador,south america,(4.0),1012
+575,Swissôtel Quito,quito,ecuador,south america,(4.5),1357
+576,ibis Quito,quito,ecuador,south america,(4.5),93
+577,Mercure Cayenne Royal Amazonia hotel,cayenne,french guiana,south america,(4.0),338
+578,Hotel Mercure Kourou Ariatel,kourou,french guiana,south america,(4.0),21
+579,ibis Asuncion,asuncion,paraguay,south america,(4.0),841
+580,ibis Asuncion,ciudad del este,paraguay,south america,(4.0),841
+581,Pullman Lima San Isidro,lima,peru,south america,(4.5),3912
+582,Novotel Lima San Isidro,lima,peru,south america,(4.0),992
+583,Swissôtel Lima,lima,peru,south america,(4.5),1682
+584,Manto Hotel Lima - MGallery,lima,peru,south america,(4.5),1066
+585,ibis Styles Lima San Isidro,lima,peru,south america,nan,
+586,Mercure Ariosto Lima,lima,peru,south america,(4.5),117
+587,ibis budget Lima Miraflores,lima,peru,south america,nan,
+588,ibis Lima Larco Miraflores,lima,peru,south america,(4.0),3296
+589,Pullman Lima Miraflores,lima,peru,south america,nan,
+590,ibis Lima Reducto Miraflores,lima,peru,south america,(4.0),352
+591,ibis Styles Lima Benavides Miraflores,lima,peru,south america,(4.5),24
+592,plaza mayor,lima,peru,south america,nan,
+593,Novotel Cusco,cusco,peru,south america,(4.5),2118
+594,ibis Trujillo,trujillo,peru,south america,(5.0),71
+595,Origins By Mantis,bijagua de upala,costa rica,south america,(4.5),45
+596,ibis Montevideo Rambla,montevideo,uruguay,south america,(4.0),1929
+597,ibis Styles Montevideo Biarritz,montevideo,uruguay,south america,(4.0),141
+598,Hotel Costanero Montevideo - MGallery,montevideo,uruguay,south america,nan,
+599,Mercure Montevideo Punta Carretas,montevideo,uruguay,south america,(4.5),896
+600,Sofitel Montevideo Casino Carrasco & Spa,montevideo,uruguay,south america,(4.5),1486
+601,Pullman Cayo Coco,ciego de avila,cuba,south america,(4.5),5751
+602,Pullman Cayo Coco,cayo coco,cuba,south america,(4.5),5751
+603,Sofitel Legend Casco Viejo - Panama City,panama city,panama,central america,nan,
+604,Novotel Panama City,panama city,panama,central america,(4.0),1105
+605,Raffles Seychelles,praslin,seychelles islands,africa,(4.5),1840
+606,Mantis St Helena,jamestown,saint helena,africa,(4.5),101
+607,Sofitel Cotonou Marina Hotel & Spa,cotonou,benin,africa,nan,
+608,ibis Cotonou,cotonou,benin,africa,(4.0),313
+609,Novotel Cotonou Orisha,cotonou,benin,africa,(4.0),498
+610,Feline Fields By Mantis,maun,botswana,africa,nan,
+611,Pullman Kinshasa Grand Hotel,kinshasa,democratic repub. of congo,africa,(4.5),636
+612,Grand Hotel De Kinshasa,kinshasa,democratic repub. of congo,africa,(4.5),636
+613,Pullman Lubumbashi Grand Karavia,lubumbashi,democratic repub. of congo,africa,(4.5),332
+614,ibis Abidjan Plateau,abidjan,ivory  coast,africa,(3.0),399
+615,Mövenpick Hotel Abidjan,abidjan,ivory  coast,africa,nan,
+616,Pullman Abidjan,abidjan,ivory  coast,africa,(4.5),453
+617,Novotel Abidjan,abidjan,ivory  coast,africa,(4.0),640
+618,Sofitel Abidjan Hotel Ivoire,abidjan,ivory  coast,africa,(4.5),1833
+619,ibis Abidjan Marcory,abidjan,ivory  coast,africa,(3.0),294
+620,ibis Douala,douala,cameroon,africa,(3.5),477
+621,ibis Algiers Airport,bab ezzouar,algeria,africa,(4.0),1821
+622,Sofitel Algiers Hamma Garden,algiers,algeria,africa,(4.5),1995
+623,ibis Algiers Airport,algiers,algeria,africa,(4.0),1821
+624,Mercure Alger Aeroport,algiers,algeria,africa,(4.0),1646
+625,ibis Constantine,constantine,algeria,africa,(3.5),385
+626,Novotel Constantine,constantine,algeria,africa,(4.0),437
+627,Royal Hotel Oran-MGallery,oran,algeria,africa,(4.5),385
+628,Ibis Oran les Falaises,oran,algeria,africa,(3.0),448
+629,Hotel Oran Bay By Accor,oran,algeria,africa,nan,
+630,Novotel Setif,setif,algeria,africa,(4.5),185
+631,ibis Setif,setif,algeria,africa,(4.0),126
+632,ibis Tlemcen,tlemcen,algeria,africa,(3.5),241
+633,Novotel Marsa Alam Beach Resort,marsa alam,egypt,africa,(4.5),2854
+634,Mövenpick El Sokhna,ain sokhna,egypt,africa,(4.0),1998
+635,Mövenpick El Gouna,el gouna,egypt,africa,(4.5),5095
+636,Mövenpick Resort El Quseir,el quseir,egypt,africa,(4.5),2426
+637,Rixos Alamein,alexandria,egypt,africa,(5.0),1546
+638,Sofitel Legend Old Cataract Aswan,aswan,egypt,africa,(4.5),3358
+639,Mövenpick Aswan,aswan,egypt,africa,(4.5),3750
+640,Fairmont Nile City,cairo,egypt,africa,(4.5),5812
+641,Novotel Cairo El Borg,cairo,egypt,africa,(4.0),1494
+642,Sofitel Cairo Nile El Gezirah,cairo,egypt,africa,(4.5),4232
+643,Novotel Cairo Airport,cairo,egypt,africa,(4.0),2340
+644,Novotel Cairo 6th of October,cairo,egypt,africa,(4.5),749
+645,Novotel Cairo El Borg,giza,egypt,africa,(4.0),1494
+646,Mövenpick Cairo Media City,giza,egypt,africa,(4.5),2230
+647,Mercure Ismailia Forsan Island Hotel,ismaïlia,egypt,africa,(4.5),476
+648,Sofitel Winter Palace Luxor,luxor,egypt,africa,(4.5),2649
+649,Pavillon Winter Luxor,luxor,egypt,africa,(4.5),1180
+650,Swissôtel Sharm El Sheikh All Inclusive Collection,sharm el sheikh,egypt,africa,nan,
+651,Rixos Sharm El Sheikh Adults Only 18+,sharm el sheikh,egypt,africa,(5.0),8555
+652,Novotel Sharm El Sheikh,sharm el sheikh,egypt,africa,(4.5),5017
+653,Naama Bay Promenade Beach Resort,sharm el sheikh,egypt,africa,(4.0),691
+654,Mövenpick Sharm El Sheikh,sharm el sheikh,egypt,africa,(4.5),4947
+655,Rixos Golf Villas And Suites Sharm El Sheikh,sharm el sheikh,egypt,africa,nan,
+656,Rixos Premium Seagate,sharm el sheikh,egypt,africa,(5.0),5268
+657,Mercure Hurghada Hotel,hurghada,egypt,africa,(4.5),6776
+658,Rixos Premium Magawish Suites and Villas,hurghada,egypt,africa,nan,
+659,Mövenpick Waterpark Resort & Spa Soma Bay,hurghada,egypt,africa,(4.0),2871
+660,Movenpick Ambassador Hotel Accra,accra,ghana,africa,(4.0),1374
+661,ibis Styles Accra Airport,accra,ghana,africa,(3.5),339
+662,ibis Bata,bata,equatorial guinea,africa,(3.5),72
+663,ibis Malabo,malabo,equatorial guinea,africa,(3.5),124
+664,Sofitel Malabo Sipopo Le Golf,malabo,equatorial guinea,africa,(4.5),553
+665,Fairmont Mara Safari Club,aitong,kenya,africa,(5.0),918
+666,Fairmont Mount Kenya Safari Club,nanyuki,kenya,africa,(4.5),1408
+667,ibis Styles Nairobi Westlands,nairobi,kenya,africa,(4.5),1422
+668,Mövenpick Residences Nairobi,nairobi,kenya,africa,(5.0),1250
+669,Fairmont The Norfolk,nairobi,kenya,africa,(4.5),1500
+670,Mercure Nairobi Upper Hill,nairobi,kenya,africa,nan,
+671,ibis Paris Porte de Montreuil,ile-de-france,france,europe,(3.0),1148
+672,ibis Paris Avenue d'Italie 13th,ile-de-france,france,europe,(3.5),2240
+673,ibis Styles Paris Mairie de Montreuil,ile-de-france,france,europe,(4.0),254
+674,Mercure Paris Pont de Levallois Neuilly Hotel,ile-de-france,france,europe,(4.0),103
+675,ibis budget Vitry sur Seine A86 bords de Seine,ile-de-france,france,europe,(2.5),225
+676,Ibis Styles Paris Gennevilliers,ile-de-france,france,europe,(3.5),40
+677,ibis Aulnay Paris Nord Expo,ile-de-france,france,europe,(3.5),155
+678,Aparthotel Adagio Access Paris Bastille,ile-de-france,france,europe,(3.5),278
+679,Mercure Paris Velizy Hotel,ile-de-france,france,europe,(4.0),836
+680,ibis budget Nanterre La Defense,ile-de-france,france,europe,(3.5),404
+681,ibis Paris Boulogne Billancourt,ile-de-france,france,europe,(4.0),347
+682,Novotel Domaine de Maffliers-Demeures de Campagne,ile-de-france,france,europe,(3.5),1291
+683,paris,ile-de-france,france,europe,nan,
+684,hauts-de-seine,ile-de-france,france,europe,nan,
+685,yvelines,ile-de-france,france,europe,nan,
+686,essonne,ile-de-france,france,europe,nan,
+687,seine-et-marne,ile-de-france,france,europe,nan,
+688,seine-st-denis,ile-de-france,france,europe,nan,
+689,val-d'oise,ile-de-france,france,europe,nan,
+690,val-de-marne,ile-de-france,france,europe,nan,
+691,ibis Marseille Timone,provence-alps-riviera,france,europe,(4.0),484
+692,ibis Styles Toulon La Seyne-sur-Mer,provence-alps-riviera,france,europe,(4.0),297
+693,ibis Styles Marseille Gare Saint-Charles,provence-alps-riviera,france,europe,(3.5),137
+694,Aparthotel Adagio Nice Promenade des Anglais,provence-alps-riviera,france,europe,(3.5),711
+695,ibis Styles Antibes,provence-alps-riviera,france,europe,(4.0),924
+696,greet Hotel Marseille Centre Saint Charles,provence-alps-riviera,france,europe,(4.0),68
+697,Mercury Thalasso and Spa Port Frejus,provence-alps-riviera,france,europe,(3.5),1432
+698,ibis Sisteron,provence-alps-riviera,france,europe,(4.0),555
+699,ibis budget Marseille Vieux Port,provence-alps-riviera,france,europe,(3.5),1832
+700,ibis Marseille Bonneveine Route des Calanques,provence-alps-riviera,france,europe,(3.5),567
+701,Sofitel Marseille Vieux Port,provence-alps-riviera,france,europe,(4.5),3273
+702,ibis Manosque Cadarache,provence-alps-riviera,france,europe,(4.0),362
+703,bouches du rhône,provence-alps-riviera,france,europe,nan,
+704,alpes de haute provence,provence-alps-riviera,france,europe,nan,
+705,hautes-alpes,provence-alps-riviera,france,europe,nan,
+706,alpes maritimes,provence-alps-riviera,france,europe,nan,
+707,var,provence-alps-riviera,france,europe,nan,
+708,vaucluse,provence-alps-riviera,france,europe,nan,
+709,ibis Styles Quimper,brittany,france,europe,(4.0),126
+710,Mercure Brest Centre Port,brittany,france,europe,nan,
+711,ibis budget Saint Brieuc Yffiniac,brittany,france,europe,(3.5),172
+712,ibis Styles Brest Centre Port,brittany,france,europe,(4.0),537
+713,Ibis Styles Saint Brieuc Plerin,brittany,france,europe,(4.0),176
+714,Sofitel Quiberon Thalassa sea & spa,brittany,france,europe,(4.0),1803
+715,ibis Styles Dinan Centre Ville,brittany,france,europe,(4.5),560
+716,Hotel Mercure Brest Centre Les Voyageurs,brittany,france,europe,(4.0),196
+717,Novotel Saint Brieuc Central Station,brittany,france,europe,(4.5),806
+718,ibis budget Concarneau,brittany,france,europe,(3.5),369
+719,ibis Styles Rennes Centre Gare - Nord,brittany,france,europe,(3.5),1045
+720,hotelF1 Fougères,brittany,france,europe,(2.5),20
+721,cotes-d'armor,brittany,france,europe,nan,
+722,finistere,brittany,france,europe,nan,
+723,ille-et-vilaine,brittany,france,europe,nan,
+724,morbihan,brittany,france,europe,nan,
+725,ibis Lyon Gare La Part-Dieu,rhone-alps,france,europe,(4.0),1103
+726,ibis Styles Bourg en Bresse,rhone-alps,france,europe,(3.5),526
+727,Hotel F1 Geneva Saint-Julien-Genevois,rhone-alps,france,europe,(2.5),53
+728,ibis Styles Lyon Bron Eurexpo,rhone-alps,france,europe,(4.0),202
+729,Greet Hotel Annecy Cran Gevrier,rhone-alps,france,europe,(3.5),588
+730,Mercure Chambery Centre Hotel,rhone-alps,france,europe,(4.0),712
+731,ibis Lyon Part Dieu Les Halles,rhone-alps,france,europe,(3.5),2079
+732,hotelF1 Saint Etienne Est la Grand Croix,rhone-alps,france,europe,(3.0),29
+733,ibis Styles Chambery Centre Gare,rhone-alps,france,europe,(3.5),335
+734,ibis Lyon Gerland Musée des Confluences,rhone-alps,france,europe,(4.0),661
+735,Hotel Le Royal Lyon-MGallery,rhone-alps,france,europe,(4.0),1886
+736,Novotel Annemasse Centre Geneva Port,rhone-alps,france,europe,nan,
+737,ain,rhone-alps,france,europe,nan,
+738,drome,rhone-alps,france,europe,nan,
+739,haute-savoie,rhone-alps,france,europe,nan,
+740,isere,rhone-alps,france,europe,nan,
+741,loire,rhone-alps,france,europe,nan,
+742,ardeche,rhone-alps,france,europe,nan,
+743,rhone,rhone-alps,france,europe,nan,
+744,savoie,rhone-alps,france,europe,nan,
+745,Mercure Limoges Centre,limousin,france,europe,(4.0),970
+746,Novotel Limoges Le Lac,limousin,france,europe,(4.0),1032
+747,ibis Égletons,limousin,france,europe,(4.0),438
+748,Mercure Brive Hotel,limousin,france,europe,(3.5),604
+749,ibis Styles Limoges Centre,limousin,france,europe,nan,
+750,ibis budget Brive la Gaillarde,limousin,france,europe,(3.5),678
+751,ibis Limoges Centre,limousin,france,europe,(4.0),740
+752,ibis budget Limoges,limousin,france,europe,(3.0),823
+753,Ibis budget Limoges Nord,limousin,france,europe,(4.0),320
+754,ibis Limoges North,limousin,france,europe,(4.0),773
+755,ibis Styles Brive La Gaillarde,limousin,france,europe,(3.5),645
+756,hotelF1 Brive Ussac,limousin,france,europe,(2.0),51
+757,corrèze (département),limousin,france,europe,nan,
+758,haute-vienne,limousin,france,europe,nan,
+759,ibis Compiègne,picardy,france,europe,(3.5),343
+760,ibis Beauvais Airport,picardy,france,europe,(4.0),524
+761,ibis budget Saint-Quentin Centre Gare,picardy,france,europe,(4.5),490
+762,ibis Styles Beauvais,picardy,france,europe,(4.0),65
+763,Mercure Amiens Cathedrale Hotel,picardy,france,europe,(4.0),1571
+764,ibis Saint Quentin Basilique,picardy,france,europe,(4.0),479
+765,ibis Creil Sur Oise,picardy,france,europe,(3.5),192
+766,Hôtel Mercure Chantilly Resort & Conventions,picardy,france,europe,(3.0),331
+767,ibis budget Roye,picardy,france,europe,(3.5),212
+768,hotelF1 Amiens Est,picardy,france,europe,(2.5),44
+769,Mercure Compiègne Sud Hotel,picardy,france,europe,(4.0),323
+770,"Ibis Albert, Pays De La Somme",picardy,france,europe,(4.0),671
+771,aisne,picardy,france,europe,nan,
+772,oise,picardy,france,europe,nan,
+773,somme,picardy,france,europe,nan,
+774,ibis budget Vichy,auvergne,france,europe,(3.5),327
+775,ibis Issoire,auvergne,france,europe,(3.5),356
+776,ibis budget Clermont-Ferrand Le Brézet Airport,auvergne,france,europe,(3.0),225
+777,ibis budget Issoire,auvergne,france,europe,(4.0),634
+778,ibis Styles Moulins Centre,auvergne,france,europe,(4.0),321
+779,ibis Clermont Ferrand Nord Riom,auvergne,france,europe,(4.0),426
+780,ibis budget Thiers,auvergne,france,europe,(3.5),84
+781,Novotel Suites Clermont Ferrand Polydome,auvergne,france,europe,(4.5),1079
+782,ibis budget Clermont Ferrand Nord Riom,auvergne,france,europe,(3.5),542
+783,ibis Moulins South,auvergne,france,europe,(4.5),16
+784,ibis Styles Le Puy en Velay,auvergne,france,europe,(4.5),877
+785,ibis budget Saint Pourcain sur Sioule,auvergne,france,europe,(4.0),268
+786,cantal,auvergne,france,europe,nan,
+787,allier,auvergne,france,europe,nan,
+788,haute-loire,auvergne,france,europe,nan,
+789,puy-de-dome,auvergne,france,europe,nan,
+790,hotelF1 Vesoul,franche-comte,france,europe,(1.5),48
+791,ibis budget Montbéliard,franche-comte,france,europe,(4.0),337
+792,ibis budget Besancon Centre Gare,franche-comte,france,europe,(3.5),470
+793,ibis Besançon Centre City,franche-comte,france,europe,(4.0),760
+794,ibis budget Pontarlier,franche-comte,france,europe,(4.0),243
+795,Mercure Belfort Centre,franche-comte,france,europe,(4.0),176
+796,ibis budget Besançon Ouest,franche-comte,france,europe,(2.5),336
+797,ibis budget Lons le Saunier,franche-comte,france,europe,(4.0),409
+798,Novotel Belfort Centre Atria,franche-comte,france,europe,(4.0),439
+799,ibis Styles Montbeliard Centre Velotte,franche-comte,france,europe,(4.5),351
+800,Mercure Luxeuil Les Bains Hexagone Hotel,franche-comte,france,europe,(3.5),278
+801,ibis Besançon Centre Ville,franche-comte,france,europe,(4.5),639
+802,doubs,franche-comte,france,europe,nan,
+803,haute-saone,franche-comte,france,europe,nan,
+804,jura,franche-comte,france,europe,nan,
+805,territoire de belfort,franche-comte,france,europe,nan,
+806,ibis Nancy Brabois,lorraine,france,europe,(4.0),526
+807,ibis Styles Nancy West Laxou,lorraine,france,europe,nan,
+808,ibis Saint Dizier,lorraine,france,europe,(4.0),328
+809,hotelF1 Verdun,lorraine,france,europe,(3.0),48
+810,Mercure Nancy Centre Place Stanislas Hotel,lorraine,france,europe,(4.0),488
+811,hotelF1 Merlebach Saarbruck,lorraine,france,europe,(2.5),21
+812,ibis Saint Die des Vosges,lorraine,france,europe,(3.5),250
+813,Mercure Vittel Hotel,lorraine,france,europe,(4.5),411
+814,Ibis budget Forbach Centre,lorraine,france,europe,nan,
+815,hotelF1 Epinal Nord,lorraine,france,europe,(3.5),20
+816,hotelF1 Remiremont Saint Nabord,lorraine,france,europe,(2.5),26
+817,hotelF1 Nancy Sud,lorraine,france,europe,(2.0),27
+818,meurthe-et-moselle,lorraine,france,europe,nan,
+819,meuse,lorraine,france,europe,nan,
+820,moselle,lorraine,france,europe,nan,
+821,vosges,lorraine,france,europe,nan,
+822,ibis Styles Toulouse Blagnac Airport,midi-pyrenees,france,europe,(3.5),390
+823,ibis budget Rodez,midi-pyrenees,france,europe,(4.0),444
+824,Mercure Figeac Viguier du Roy,midi-pyrenees,france,europe,(4.5),204
+825,Mercure Toulouse Centre Saint-Georges Hotel,midi-pyrenees,france,europe,(4.0),981
+826,ibis Lourdes Centre Gare,midi-pyrenees,france,europe,(4.0),723
+827,Hotel Mercure Saint-Lary,midi-pyrenees,france,europe,(4.5),757
+828,ibis budget Toulouse Airport,midi-pyrenees,france,europe,(3.5),747
+829,ibis Styles Montauban,midi-pyrenees,france,europe,nan,
+830,ibis Toulouse Centre,midi-pyrenees,france,europe,(4.0),1333
+831,Mercure Toulouse Aéroport Golf de Seilh Hotel,midi-pyrenees,france,europe,(4.0),640
+832,Novotel Toulouse Centre Compans Caffarelli,midi-pyrenees,france,europe,(4.0),1153
+833,Mercure Toulouse Sud hotel,midi-pyrenees,france,europe,(4.5),249
+834,aveyron,midi-pyrenees,france,europe,nan,
+835,gers,midi-pyrenees,france,europe,nan,
+836,haute-garonne,midi-pyrenees,france,europe,nan,
+837,hautes-pyrenees,midi-pyrenees,france,europe,nan,
+838,lot,midi-pyrenees,france,europe,nan,
+839,tarn,midi-pyrenees,france,europe,nan,
+840,tarn-et-garonne,midi-pyrenees,france,europe,nan,
+841,ibis budget Strasbourg la Vigie,alsace,france,europe,(3.0),435
+842,Mercure Strasbourg Centre Hotel,alsace,france,europe,(4.0),1039
+843,Mercure Strasbourg Centre Gare Hotel,alsace,france,europe,(3.5),541
+844,ibis budget Strasbourg Centre Gare,alsace,france,europe,(3.5),966
+845,Hôtel Cour du Corbeau Strasbourg-MGallery,alsace,france,europe,(4.5),2345
+846,ibis Styles Strasbourg Avenue du Rhin,alsace,france,europe,(4.0),625
+847,hotelF1 Saverne Monswiller,alsace,france,europe,(3.0),40
+848,ibis Styles Strasbourg Centre Gare,alsace,france,europe,(4.0),851
+849,ibis Colmar Centre,alsace,france,europe,(3.5),1231
+850,ibis Strasbourg Centre Petite France,alsace,france,europe,(3.5),1111
+851,hotelF1 Colmar Parc des Expositions,alsace,france,europe,(2.0),107
+852,ibis budget Sélestat,alsace,france,europe,(4.0),497
+853,bas-rhin,alsace,france,europe,nan,
+854,haut-rhin,alsace,france,europe,nan,
+855,ibis Styles Bordeaux Meriadeck,aquitania,france,europe,(3.5),1057
+856,ibis budget Bordeaux Centre Gare Saint Jean,aquitania,france,europe,(3.5),1125
+857,ibis budget Libourne,aquitania,france,europe,(3.5),331
+858,ibis Styles Perigueux Trelissac,aquitania,france,europe,(3.0),609
+859,Aparthotel Adagio Bordeaux Gambetta,aquitania,france,europe,(4.0),1344
+860,ibis Bordeaux Lac,aquitania,france,europe,(4.0),1257
+861,ibis Sarlat,aquitania,france,europe,(4.0),1361
+862,greet Hotel Bordeaux Floirac Arena,aquitania,france,europe,nan,
+863,ibis Ciboure Saint Jean de Luz,aquitania,france,europe,(4.0),1096
+864,Mercure Bordeaux Château Chartrons Hotel,aquitania,france,europe,(3.5),1169
+865,Hotel Mercure Villeneuve-sur-Lot-Le Moulin de Madame,aquitania,france,europe,(4.5),508
+866,Hôtel Mercure Bayonne Centre Le Grand Hotel,aquitania,france,europe,(4.0),298
+867,dordogne,aquitania,france,europe,nan,
+868,gironde,aquitania,france,europe,nan,
+869,landes,aquitania,france,europe,nan,
+870,lot-et-garonne,aquitania,france,europe,nan,
+871,pyrenees-atlantiques,aquitania,france,europe,nan,
+872,Mercure Aberdeen Caledonian Hotel,aberdeen,united kingdom,europe,(4.0),1372
+873,ibis Aberdeen Centre - Quayside,aberdeen,united kingdom,europe,(4.0),1352
+874,Mercure Ayr Hotel,ayr,united kingdom,europe,(3.5),1051
+875,ibis budget London Barking,barking and dagenham,united kingdom,europe,(3.0),655
+876,ibis London Barking,barking and dagenham,united kingdom,europe,(3.5),644
+877,ibis Styles Barnsley,barnsley,united kingdom,europe,(4.0),920
+878,Mercure Barnsley Tankersley Manor Hotel,barnsley,united kingdom,europe,nan,
+879,Mercure Winchester Wessex Hotel,basingstoke,united kingdom,europe,(3.5),2276
+880,ibis Bristol Temple Meads Quay,bath,united kingdom,europe,(4.0),1670
+881,Novotel Bristol Centre,bath,united kingdom,europe,(4.0),1878
+882,Mercure Bristol Holland House,bath,united kingdom,europe,(3.5),3518
+883,Mercure Bristol Brigstow Hotel,bath,united kingdom,europe,(4.0),2123
+884,ibis Bristol Centre,bath,united kingdom,europe,(4.0),2003
+885,Mercure Bedford Centre Hotel,bedford,united kingdom,europe,(4.5),181
+886,ibis Belfast City Centre,belfast,united kingdom,europe,(4.0),2561
+887,ETAP Belfast,belfast,united kingdom,europe,(3.5),1914
+888,ibis Belfast Queens Quarter,belfast,united kingdom,europe,(4.0),1182
+889,Aparthotel Adagio Liverpool City Centre,birkenhead,united kingdom,europe,(4.5),791
+890,Aparthotel Adagio Birmingham City Centre,birmingham,united kingdom,europe,(4.5),510
+891,ibis Birmingham New Street Station,birmingham,united kingdom,europe,(3.5),2477
+892,ibis Styles Birmingham Centre,birmingham,united kingdom,europe,(4.0),1706
+893,ibis budget Birmingham Centre,birmingham,united kingdom,europe,(3.5),2661
+894,Novotel Birmingham Centre,birmingham,united kingdom,europe,(4.0),2160
+895,ibis Birmingham Bordesley Circus,birmingham,united kingdom,europe,(3.5),626
+896,ibis Styles Birmingham Hagley Road,birmingham,united kingdom,europe,(4.0),380
+897,Mercure Birmingham West Hotel,birmingham,united kingdom,europe,(4.5),235
+898,ibis Styles Birmingham Oldbury,birmingham,united kingdom,europe,(4.5),280
+899,Novotel Birmingham Airport,birmingham,united kingdom,europe,(4.0),4011
+900,ibis budget Birmingham Airport - NEC,birmingham,united kingdom,europe,(4.0),2179
+901,ibis Birmingham Airport - NEC,birmingham,united kingdom,europe,(4.0),2641
+902,Mercure Blackburn Dunkenhalgh Hotel & Spa,blackburn,united kingdom,europe,(4.0),481
+903,Mercure Bolton Georgian House Hotel,bolton,united kingdom,europe,(4.0),1038
+904,Mercure Blackburn Dunkenhalgh Hotel & Spa,bolton,united kingdom,europe,(4.0),481
+905,Hôtel Mercure Andorra,andorra la vella,andorra,europe,(3.5),669
+906,Novotel Andorra,andorra la vella,andorra,europe,(4.0),883
+907,Mövenpick Hotel Lalez Durres,durrës,albania,europe,(4.0),30
+908,ibis Yerevan Center,yerevan,armenia,europe,(4.5),556
+909,ibis Styles Graz Messe,styria,austria,europe,nan,
+910,ibis budget Graz City,styria,austria,europe,(3.0),536
+911,Hotel Mercure Graz City,styria,austria,europe,(4.0),1048
+912,graz,styria,austria,europe,nan,
+913,ibis budget Salzburg Airport,salzburg - land,austria,europe,(3.5),468
+914,Hotel Mercure Salzburg City,salzburg - land,austria,europe,(4.0),1497
+915,wals-siezenheim,salzburg - land,austria,europe,nan,
+916,himmelreich,salzburg - land,austria,europe,nan,
+917,salzburg,salzburg - land,austria,europe,nan,
+918,ibis Styles Wien Messe Prater,vienna - land-austria,austria,europe,(4.0),238
+919,Mercure Hotel Raphael Wien,vienna - land-austria,austria,europe,(4.0),606
+920,ibis Vienna Airport,vienna - land-austria,austria,europe,(3.5),245
+921,Hotel Mercure Wien Westbahnhof,vienna - land-austria,austria,europe,(3.5),1390
+922,Hotel Mercure Wien Zentrum,vienna - land-austria,austria,europe,(4.0),1913
+923,25hours Hotel Vienna at MuseumsQuartier,vienna - land-austria,austria,europe,(4.5),3088
+924,ibis budget Wien Sankt Marx,vienna - land-austria,austria,europe,(3.5),1334
+925,ibis Wien City,vienna - land-austria,austria,europe,(4.0),1146
+926,Mercure Grand Hotel Biedermeier Wien,vienna - land-austria,austria,europe,(4.0),1712
+927,greet Vienna City North,vienna - land-austria,austria,europe,(4.5),4
+928,Novotel Wien City,vienna - land-austria,austria,europe,(4.0),1899
+929,ibis Styles Wien City,vienna - land-austria,austria,europe,(4.5),1738
+930,schwechat,vienna - land-austria,austria,europe,nan,
+931,vienna,vienna - land-austria,austria,europe,nan,
+932,ibis Woerthersee,carinthia,austria,europe,(4.0),188
+933,Ibis Styles Klagenfurt am Woerthersee,carinthia,austria,europe,nan,
+934,techelsberg,carinthia,austria,europe,nan,
+935,klagenfurt,carinthia,austria,europe,nan,
+936,ibis Styles Linz,upper austria,austria,europe,(4.0),783
+937,ibis Wels,upper austria,austria,europe,(4.5),18
+938,linz,upper austria,austria,europe,nan,
+939,wels,upper austria,austria,europe,nan,
+940,Grand Hotel Bregenz - MGallery,vorarlberg,austria,europe,(4.0),263
+941,ibis Bregenz,vorarlberg,austria,europe,(4.0),769
+942,ibis Friedrichshafen Airport Messe,vorarlberg,austria,europe,(4.0),426
+943,bregenz,vorarlberg,austria,europe,nan,
+944,ibis Styles Parndorf Neusiedler,burgenland,austria,europe,nan,
+945,parndorf,burgenland,austria,europe,nan,
+946,ibis Innsbruck,tyrol,austria,europe,(4.0),1552
+947,innsbruck,tyrol,austria,europe,nan,
+948,Mercure Baku City,baku,azerbaijan,europe,nan,
+949,Fairmont Baku - Flame Towers,baku,azerbaijan,europe,(4.5),2110
+950,ibis Baku City,baku,azerbaijan,europe,(5.0),23
+951,Swissôtel Sarajevo,sarajevo,bosnia and herzegovina,europe,(4.0),92
+952,Novotel Sarajevo Bristol,sarajevo,bosnia and herzegovina,europe,(4.5),511
+953,ibis Styles Sarajevo,sarajevo,bosnia and herzegovina,europe,(4.0),77
+954,Tarcin Forest Resort & Spa Sarajevo - MGallery,sarajevo,bosnia and herzegovina,europe,(4.5),98
+955,ibis Antwerpen Centrum,antwerp,belgium,europe,(3.5),1397
+956,Mercure Antwerp City Centre,antwerp,belgium,europe,(4.0),1093
+957,ibis budget Antwerpen Centraal Station,antwerp,belgium,europe,(3.5),1364
+958,Aparthotel Adagio Antwerp City Center,antwerp,belgium,europe,nan,
+959,Mercure Antwerp City South,antwerp,belgium,europe,(4.0),1000
+960,ibis budget Antwerpen Port,antwerp,belgium,europe,(3.5),383
+961,Novotel Antwerpen,antwerp,belgium,europe,(3.5),725
+962,ibis Sint Niklaas Centrum,antwerp,belgium,europe,(4.0),325
+963,Novotel Mechelen Centrum,antwerp,belgium,europe,(4.0),758
+964,antwerp zoo,antwerp,belgium,europe,nan,
+965,meir,antwerp,belgium,europe,nan,
+966,plantin-moretus museum,antwerp,belgium,europe,nan,
+967,aquatopia,antwerp,belgium,europe,nan,
+968,mas - museum aan de stroom,antwerp,belgium,europe,nan,
+969,port of antwerp,antwerp,belgium,europe,nan,
+970,red star line museum,antwerp,belgium,europe,nan,
+971,antwerp-centraal railway station,antwerp,belgium,europe,nan,
+972,ibis Styles Arlon Porte du Luxembourg,arlon,belgium,europe,nan,
+973,ibis Mons Centre Gare,ath,belgium,europe,(3.5),456
+974,ibis budget Blankenberge,blankenberge,belgium,europe,(3.5),212
+975,Hotel Mercure Blankenberge Station,blankenberge,belgium,europe,(4.0),306
+976,ibis Styles Bredene,bredene,belgium,europe,nan,
+977,ibis Brugge Centrum,brugge,belgium,europe,(4.0),2880
+978,Novotel Brugge Centrum,brugge,belgium,europe,(4.0),3580
+979,ibis budget Brugge Centrum Station,brugge,belgium,europe,(4.0),4523
+980,brugge railway station,brugge,belgium,europe,nan,
+981,beguinage of bruges,brugge,belgium,europe,nan,
+982,gruuthusemuseum,brugge,belgium,europe,nan,
+983,groeningemuseum,brugge,belgium,europe,nan,
+984,basilica of the holy blood,brugge,belgium,europe,nan,
+985,belfry of bruges,brugge,belgium,europe,nan,
+986,Novotel Brussels off Grand Place,brussels,belgium,europe,(4.0),3469
+987,ibis Brussels off Grand Place,brussels,belgium,europe,(4.0),3806
+988,Aparthotel Adagio Brussels Grand Place,brussels,belgium,europe,(4.0),1548
+989,Novotel Brussels City Centre,brussels,belgium,europe,(4.0),3721
+990,ibis Brussels City Centre,brussels,belgium,europe,(3.5),3542
+991,Le Louise Hotel Brussels - MGallery,brussels,belgium,europe,(4.5),131
+992,Hotel Mercure Brussels Centre Midi,brussels,belgium,europe,(4.0),989
+993,Adagio Access Brussels Europe Aparthotel,brussels,belgium,europe,(4.0),1054
+994,Novotel Brussels Centre Midi Station,brussels,belgium,europe,(4.0),1074
+995,ibis Brussels Centre Gare Midi,brussels,belgium,europe,(3.5),2560
+996,Pullman Brussels Centre Midi,brussels,belgium,europe,(4.5),2377
+997,ibis Styles Brussels Centre Stephanie,brussels,belgium,europe,(4.0),811
+998,avenue louise,brussels,belgium,europe,nan,
+999,uccle,brussels,belgium,europe,nan,
+1000,marolles,brussels,belgium,europe,nan,
+1001,european parliament,brussels,belgium,europe,nan,
+1002,ancienne belgique,brussels,belgium,europe,nan,
+1003,manneken pis,brussels,belgium,europe,nan,
+1004,place sainte-catherine,brussels,belgium,europe,nan,
+1005,brussels-north railway station,brussels,belgium,europe,nan,
+1006,laeken,brussels,belgium,europe,nan,
+1007,atomium,brussels,belgium,europe,nan,
+1008,vilvoorde,brussels,belgium,europe,nan,
+1009,royal palace of madrid,brussels,belgium,europe,nan,
+1010,Novotel Charleroi Centre,charleroi,belgium,europe,(4.0),262
+1011,ibis Charleroi Centre Gare,charleroi,belgium,europe,(3.5),573
+1012,Aero44 Hotel Charleroi Airport,charleroi,belgium,europe,nan,
+1013,ibis budget Charleroi Airport,charleroi,belgium,europe,(3.5),990
+1014,brussels south charleroi airport,charleroi,belgium,europe,nan,
+1015,ibis Dinant Centre,ciney,belgium,europe,(4.0),1113
+1016,ibis De Haan,de haan,belgium,europe,(4.0),472
+1017,ibis De Panne,de panne,belgium,europe,(4.0),757
+1018,ibis Dunkerque Centre,de panne,belgium,europe,(3.5),840
+1019,ibis Dinant Centre,dinant,belgium,europe,(4.0),1113
+1020,Pullman Okol Golf Resort & Spa,gorni okol,bulgaria,europe,nan,
+1021,The Emporium Plovdiv - MGallery,plovdiv,bulgaria,europe,(4.5),19
+1022,Maison Sofia - MGallery,sofia,bulgaria,europe,(4.0),366
+1023,ibis Sofia Airport,sofia,bulgaria,europe,(3.5),575
+1024,Novotel Sofia,sofia,bulgaria,europe,(4.5),1049
+1025,ibis Styles Golden Sands Roomer Hotel,varna,bulgaria,europe,(4.5),17
+1026,ibis Baar Zug,baar,switzerland,europe,(3.5),395
+1027,ibis Baden Neuenhof,baden,switzerland,europe,(4.0),80
+1028,Aparthotel Adagio Basel City,basel,switzerland,europe,(4.0),443
+1029,Pullman Basel Europe,basel,switzerland,europe,(4.5),1130
+1030,Movenpick Hotel Basel,basel,switzerland,europe,nan,
+1031,ibis Basel Bahnhof,basel,switzerland,europe,(4.0),1109
+1032,Novotel Basel City,basel,switzerland,europe,(4.5),655
+1033,ibis budget Basel City,basel,switzerland,europe,(3.5),683
+1034,ibis Styles Basel City,basel,switzerland,europe,(4.0),337
+1035,Aparthotel Adagio Access Saint Louis Bâle,basel,switzerland,europe,(3.5),475
+1036,ibis Airport Bâle Mulhouse,basel,switzerland,europe,(4.0),347
+1037,ibis budget Basel Pratteln,basel,switzerland,europe,(3.5),429
+1038,Swissôtel Kursaal Bern,bern,switzerland,europe,nan,
+1039,ibis Styles Bern City,bern,switzerland,europe,(4.5),15
+1040,ibis budget Bern Expo,bern,switzerland,europe,(3.5),777
+1041,Novotel Bern Expo,bern,switzerland,europe,(4.0),1111
+1042,ibis Bern Expo,bern,switzerland,europe,(4.0),864
+1043,Mercure Plaza Biel,bern,switzerland,europe,(4.0),489
+1044,ibis Fribourg,bern,switzerland,europe,(4.0),430
+1045,Hotel Royal St Georges Interlaken MGallery,bern,switzerland,europe,(4.0),1119
+1046,Mercure Plaza Biel,biel,switzerland,europe,(4.0),489
+1047,Novotel Bern Expo,biel,switzerland,europe,(4.0),1111
+1048,ibis Bulle la Gruyere,bulle,switzerland,europe,(4.0),413
+1049,ibis Chur,chur,switzerland,europe,(4.0),467
+1050,Mercure Chur City West,chur,switzerland,europe,(4.0),142
+1051,ibis Delémont Delsberg,delemont,switzerland,europe,(4.0),272
+1052,Mercure Hotel Delemont,delemont,switzerland,europe,nan,
+1053,ibis Winterthur City,frauenfeld,switzerland,europe,(3.5),402
+1054,Fribourg Centre Remparts By Mercure,fribourg,switzerland,europe,nan,
+1055,Ibis Budget Fribourg,fribourg,switzerland,europe,(3.5),54
+1056,ibis Fribourg,fribourg,switzerland,europe,(4.0),430
+1057,ibis Bern Expo,fribourg,switzerland,europe,(4.0),864
+1058,ibis Fribourg,granges paccot,switzerland,europe,(4.0),430
+1059,Hotel Rotary Geneva-MGallery,geneva,switzerland,europe,(4.5),710
+1060,ibis Geneve Centre Gare,geneva,switzerland,europe,(3.5),667
+1061,Aparthotel Adagio Geneve Mont Blanc,geneva,switzerland,europe,(3.5),350
+1062,ibis Genève Centre Lac,geneva,switzerland,europe,(4.0),337
+1063,Résidence Studio Genève Centre,geneva,switzerland,europe,(2.5),193
+1064,Novotel Genève Centre,geneva,switzerland,europe,(3.5),1700
+1065,Fairmont Grand Hotel Geneva,geneva,switzerland,europe,(4.0),1354
+1066,ibis Geneve Centre Nations,geneva,switzerland,europe,(4.0),1228
+1067,Ibis budget Geneve Aeroport,geneva,switzerland,europe,(3.5),1107
+1068,Novotel Suites Geneve Aeroport,geneva,switzerland,europe,(4.0),866
+1069,ibis Geneve Petit Lancy,geneva,switzerland,europe,(4.0),676
+1070,ibis budget Geneve Petit Lancy,geneva,switzerland,europe,(3.5),620
+1071,geneva airport,geneva,switzerland,europe,nan,
+1072,lake geneva,geneva,switzerland,europe,nan,
+1073,Mercure Larnaca Beach Resort,larnaca,chypre,europe,nan,
+1074,Dhawa Ihuru,male,maldives,asia,(5.0),2755
+1075,SO/ Maldives,male,maldives,asia,nan,
+1076,Banyan Tree Vabbinfaru,male,maldives,asia,(5.0),2682
+1077,Angsana Velavaru,male,maldives,asia,(5.0),3752
+1078,Mövenpick Resort Kuredhivaru Maldives,male,maldives,asia,(5.0),1085
+1079,Mercure Maldives Kooddoo Resort,kooddoo island,maldives,asia,(5.0),849
+1080,Mercure Maldives Kooddoo Resort,gaafu alifu atoll,maldives,asia,(5.0),849
+1081,Raffles Maldives Meradhoo Resort,meradhoo,maldives,asia,(5.0),789
+1082,Fairmont Maldives - Sirru Fen Fushi,shaviyani atoll,maldives,asia,(5.0),980
+1083,Pullman Maldives All-Inclusive Resort,maamutaa island,maldives,asia,(5.0),678
+1084,Ibis Hefei Pedestrian Street Hotel,anhui,china,asia,nan,
+1085,Banyan Tree Huangshan,anhui,china,asia,(5.0),3619
+1086,Mercure Hefei City Center,anhui,china,asia,nan,
+1087,ibis Bengbu Donghai Ave,anhui,china,asia,nan,
+1088,ibis Bengbu Huaihe Rd Railway Station,anhui,china,asia,(4.0),44
+1089,Mercure Huangshan East Gate,anhui,china,asia,nan,
+1090,Mercure Hefei Sunac,anhui,china,asia,(5.0),104
+1091,Pullman Hefei Sunac,anhui,china,asia,(5.0),164
+1092,Novotel Hefei Sunac,anhui,china,asia,(5.0),54
+1093,ibis Huaibei Nanli Road Hotel,anhui,china,asia,nan,
+1094,huaibei,anhui,china,asia,nan,
+1095,huangshan,anhui,china,asia,nan,
+1096,tongling,anhui,china,asia,nan,
+1097,bengbu,anhui,china,asia,nan,
+1098,hefei,anhui,china,asia,nan,
+1099,Mercure Beijing City Center,beijing - municipality,china,asia,nan,
+1100,ibis Beijing Sanlitun Tuanjie Lake Hotel,beijing - municipality,china,asia,(3.5),626
+1101,Sofitel Beijing Central,beijing - municipality,china,asia,(5.0),4375
+1102,ibis Beijing Jianguomen,beijing - municipality,china,asia,(3.0),103
+1103,Pullman Beijing South,beijing - municipality,china,asia,(4.0),534
+1104,Novotel Beijing Peace,beijing - municipality,china,asia,(4.0),3808
+1105,Grand Mercure Beijing Dongcheng,beijing - municipality,china,asia,(5.0),1093
+1106,Swissôtel Beijing Hong Kong Macau Center,beijing - municipality,china,asia,(4.0),1558
+1107,ibis Beijing Dacheng Road,beijing - municipality,china,asia,(3.0),20
+1108,Mercure Wanshang Beijing,beijing - municipality,china,asia,(4.0),268
+1109,Mercure Beijing Anzhen Olympic Center,beijing - municipality,china,asia,nan,
+1110,Mercure Beijing Chang An West,beijing - municipality,china,asia,(4.0),23
+1111,beijing,beijing - municipality,china,asia,nan,
+1112,ibis Chongqing Ranjiaba,chongqing - municipality,china,asia,(3.5),11
+1113,Mercure Chongqing Downtown,chongqing - municipality,china,asia,(3.0),7
+1114,Banyan Tree Chongqing Beibei,chongqing - municipality,china,asia,(5.0),4960
+1115,chongqing,chongqing - municipality,china,asia,nan,
+1116,ibis Styles Xiamen Zhongshan Rd Walking Street Hotel,fujian,china,asia,(4.0),90
+1117,Grand Mercure Xiamen Downtown,fujian,china,asia,(4.0),48
+1118,Ibis Styles Fuzhou Wuyi Square Hotel,fujian,china,asia,(3.5),2
+1119,ibis Styles Quanzhou Quanxiu Road Hotel,fujian,china,asia,(4.0),5
+1120,Mercure Xiamen On the Bund,fujian,china,asia,nan,
+1121,Pullman Shishi Mattison,fujian,china,asia,(4.0),39
+1122,Mercure Xiamen Exhibition Centre,fujian,china,asia,(3.5),6
+1123,Pullman Xiamen Powerlong,fujian,china,asia,(4.5),437
+1124,Pullman Fuzhou Tahoe,fujian,china,asia,(5.0),1886
+1125,ibis Xiamen Kaiyuan,fujian,china,asia,(3.5),256
+1126,shishi,fujian,china,asia,nan,
+1127,fuzhou,fujian,china,asia,nan,
+1128,quanzhou,fujian,china,asia,nan,
+1129,xiamen,fujian,china,asia,nan,
+1130,Ibis Lanzhou Railway Bureau Hotel,gansu,china,asia,nan,
+1131,ibis Styles Lintao Xin Jie Hotel,gansu,china,asia,nan,
+1132,ibis Lanzhou Peili Square Hotel,gansu,china,asia,nan,
+1133,Ibis Lanzhou Square west entrance Hotel,gansu,china,asia,nan,
+1134,ibis Lanzhou Wuquan Square,gansu,china,asia,nan,
+1135,ibis Styles Lanzhou Wulipu,gansu,china,asia,nan,
+1136,Ibis Lanzhou West Railway Station Hotel,gansu,china,asia,nan,
+1137,ibis Lanzhou Hi-Tech Dev Zone,gansu,china,asia,nan,
+1138,Mercure Lanzhou Dongfanghong,gansu,china,asia,nan,
+1139,Ibis Lanzhou Xigu Yumen Street Hotel,gansu,china,asia,nan,
+1140,ibis Lanzhou Railway Station,gansu,china,asia,(4.0),79
+1141,ibis Lanzhou Dongfanghong Plaza Hotel,gansu,china,asia,nan,
+1142,lanzhou,gansu,china,asia,nan,
+1143,dunhuang,gansu,china,asia,nan,
+1144,jiayuguan,gansu,china,asia,nan,
+1145,jiuquan,gansu,china,asia,nan,
+1146,pingliang,gansu,china,asia,nan,
+1147,zhangye,gansu,china,asia,nan,
+1148,tianshui,gansu,china,asia,nan,
+1149,lintaodingxi,gansu,china,asia,nan,
+1150,longnan,gansu,china,asia,nan,
+1151,Pullman Guangzhou Baiyun Airport,guangdong,china,asia,(4.0),2034
+1152,Grand Mercure Foshan Country Garden,guangdong,china,asia,(4.5),24
+1153,Mercure Guangzhou Tianhe Sports Center,guangdong,china,asia,nan,
+1154,Ibis styles Guangzhou Panyu Shiqiao Hotel,guangdong,china,asia,(4.0),23
+1155,Novotel Dongguan Songshan Lake,guangdong,china,asia,nan,
+1156,Grand Mercure Huizhou Huiyang,guangdong,china,asia,nan,
+1157,Novotel Guangzhou Baiyun Airport,guangdong,china,asia,nan,
+1158,ibis Styles Dongguan Chang'an Wanda Plaza Hotel,guangdong,china,asia,(3.5),5
+1159,Swissôtel Foshan,guangdong,china,asia,(4.5),837
+1160,Mercure Shenzhen Futian,guangdong,china,asia,nan,
+1161,Mercure Shenzhen Pinghu,guangdong,china,asia,nan,
+1162,Mercure Guangzhou Nansha,guangdong,china,asia,nan,
+1163,huizhou,guangdong,china,asia,nan,
+1164,zhuhai,guangdong,china,asia,nan,
+1165,humen,guangdong,china,asia,nan,
+1166,chaozhou,guangdong,china,asia,nan,
+1167,dongguan,guangdong,china,asia,nan,
+1168,foshan,guangdong,china,asia,nan,
+1169,guangzhou,guangdong,china,asia,nan,
+1170,shantou,guangdong,china,asia,nan,
+1171,shenzhen,guangdong,china,asia,nan,
+1172,Banyan Tree Yangshuo,guangxi,china,asia,(5.0),9973
+1173,Mercure Guilin Hi Tech Zone,guangxi,china,asia,nan,
+1174,yangshuo,guangxi,china,asia,nan,
+1175,guilin,guangxi,china,asia,nan,
+1176,Pullman Guiyang,guizhou,china,asia,(5.0),426
+1177,Sofitel Guiyang Hunter,guizhou,china,asia,(5.0),8934
+1178,Novotel Guiyang Downtown,guizhou,china,asia,(4.0),222
+1179,Novotel Guiyang Panjiang,guizhou,china,asia,(5.0),190
+1180,Fairmont Guiyang,guizhou,china,asia,nan,
+1181,guiyang,guizhou,china,asia,nan,
+1182,Ibis Haikou Injoy Plaza Hotel,hainan,china,asia,nan,
+1183,Pullman Oceanview Sanya Bay Resort & Spa,hainan,china,asia,(5.0),4730
+1184,Pullman Sanya Yalong Bay Villas & Resort,hainan,china,asia,(4.5),1405
+1185,Raffles Hainan Clear Water Bay,hainan,china,asia,(5.0),3573
+1186,Fairmont Sanya Haitang Bay,hainan,china,asia,nan,
+1187,Sofitel Haikou,hainan,china,asia,nan,
+1188,Pullman Haikou,hainan,china,asia,nan,
+1189,Sofitel Sanya Leeman Resort,hainan,china,asia,(5.0),5177
+1190,Novotel Haikou Xinbudao,hainan,china,asia,(4.0),8
+1191,Banyan Tree Sanya,hainan,china,asia,(5.0),4942
+1192,sanya,hainan,china,asia,nan,
+1193,haikou,hainan,china,asia,nan,
+1194,hainan,hainan,china,asia,nan,
+1195,Sofitel Xiong An,hebei,china,asia,nan,
+1196,Mercure Shijiazhuang East Yuhua Road,hebei,china,asia,nan,
+1197,Mercure Qinhuangdao Downtown,hebei,china,asia,nan,
+1198,Mercure Shijiazhuang Downtown,hebei,china,asia,nan,
+1199,Mercure Shijiazhuang City Center,hebei,china,asia,nan,
+1200,Pullman Tangshan,hebei,china,asia,(5.0),1262
+1201,baoding,hebei,china,asia,nan,
+1202,qinhuangdao,hebei,china,asia,nan,
+1203,shijiazhuang,hebei,china,asia,nan,
+1204,tangshan,hebei,china,asia,nan,
+1205,zhangjiakou,hebei,china,asia,nan,
+1206,Sofitel Harbin,heilongjiang,china,asia,(5.0),1885
+1207,Mercure Harbin Songbei,heilongjiang,china,asia,(3.5),7
+1208,Novotel Daqing Haofang,heilongjiang,china,asia,(4.5),7
+1209,Mercure Harbin West Railway Station,heilongjiang,china,asia,nan,
+1210,Mercure Harbin Central Street Sophia Church,heilongjiang,china,asia,nan,
+1211,daqing,heilongjiang,china,asia,nan,
+1212,harbin,heilongjiang,china,asia,nan,
+1213,qiqihar,heilongjiang,china,asia,nan,
+1214,Mercure Kaifeng North,henan,china,asia,nan,
+1215,Mercure Zhumadian West,henan,china,asia,nan,
+1216,Novotel Zhengzhou Convention Centre,henan,china,asia,(4.5),212
+1217,Sofitel Zhengzhou International,henan,china,asia,(5.0),1857
+1218,Novotel Zhengzhou Airport,henan,china,asia,(5.0),59
+1219,Mercure Xinyang East Railway Station,henan,china,asia,nan,
+1220,Mercure Anyang Downtown,henan,china,asia,nan,
+1221,Pullman Kaifeng Jianye,henan,china,asia,(5.0),1447
+1222,shangqiu,henan,china,asia,nan,
+1223,zhumadian,henan,china,asia,nan,
+1224,yongcheng,henan,china,asia,nan,
+1225,anyang,henan,china,asia,nan,
+1226,hebi,henan,china,asia,nan,
+1227,kaifeng,henan,china,asia,nan,
+1228,luoyang,henan,china,asia,nan,
+1229,nanyang,henan,china,asia,nan,
+1230,xinyang,henan,china,asia,nan,
+1231,zhengzhou,henan,china,asia,nan,
+1232,zhoukou,henan,china,asia,nan,
+1233,Mercure Pangkalan Bun,borneo,indonesia,asia,nan,
+1234,ibis Pontianak City Center,borneo,indonesia,asia,(5.0),712
+1235,Novotel Banjarmasin Airport,borneo,indonesia,asia,(4.0),478
+1236,ibis Balikpapan,borneo,indonesia,asia,(3.5),247
+1237,Ibis Samarinda,borneo,indonesia,asia,(5.0),674
+1238,Mercure Samarinda,borneo,indonesia,asia,(5.0),1142
+1239,Mercure Pontianak City Center,borneo,indonesia,asia,(4.5),1460
+1240,Novotel Balikpapan,borneo,indonesia,asia,(4.0),638
+1241,kalimantan central,borneo,indonesia,asia,nan,
+1242,kalimantan du sud,borneo,indonesia,asia,nan,
+1243,kalimantan occidental,borneo,indonesia,asia,nan,
+1244,kalimantan oriental,borneo,indonesia,asia,nan,
+1245,Pullman Bali Legian Beach,petites iles de la sonde,indonesia,asia,(4.5),5545
+1246,ibis Styles Bali Denpasar,petites iles de la sonde,indonesia,asia,(3.5),420
+1247,The Kuta Beach Heritage Hotel Bali - Managed by Accor,petites iles de la sonde,indonesia,asia,(4.0),2018
+1248,Peppers Seminyak,petites iles de la sonde,indonesia,asia,nan,
+1249,Sofitel Bali Nusa Dua Beach Resort,petites iles de la sonde,indonesia,asia,(4.5),8028
+1250,Mövenpick Resort & Spa Jimbaran Bali,petites iles de la sonde,indonesia,asia,(4.5),1967
+1251,Mercure Resort Sanur,petites iles de la sonde,indonesia,asia,(4.0),3056
+1252,ibis Bali Legian Street,petites iles de la sonde,indonesia,asia,(4.0),379
+1253,Novotel Bali Ngurah Rai Airport,petites iles de la sonde,indonesia,asia,(4.5),1784
+1254,Novotel Lombok Resort & Villas,petites iles de la sonde,indonesia,asia,(4.0),2294
+1255,Novotel Bali Nusa Dua - Hotel & Residences,petites iles de la sonde,indonesia,asia,(4.0),3789
+1256,ibis Bali Kuta,petites iles de la sonde,indonesia,asia,(4.0),512
+1257,bali,petites iles de la sonde,indonesia,asia,nan,
+1258,petites iles de la sonde occidentales,petites iles de la sonde,indonesia,asia,nan,
+1259,ibis Styles Semarang Simpang Lima,java,indonesia,asia,nan,
+1260,Mercure Convention Center Ancol,java,indonesia,asia,(4.0),2383
+1261,Mercure Jakarta Pantai Indah Kapuk,java,indonesia,asia,(5.0),2211
+1262,Mercure Bandung Nexa Supratman,java,indonesia,asia,(5.0),2123
+1263,Novotel Jakarta Mangga Dua Square,java,indonesia,asia,(4.5),2667
+1264,Novotel Jakarta Gajah Mada,java,indonesia,asia,(4.5),3341
+1265,ibis Bandung Pasteur,java,indonesia,asia,(4.0),414
+1266,ibis Styles Bekasi Jatibening,java,indonesia,asia,(5.0),543
+1267,ibis Styles Jakarta Tanah Abang,java,indonesia,asia,(5.0),336
+1268,Mercure Tangerang Centre,java,indonesia,asia,nan,
+1269,ibis budget Jakarta Airport,java,indonesia,asia,(4.0),560
+1270,ibis Styles Malang,java,indonesia,asia,(4.0),639
+1271,banten,java,indonesia,asia,nan,
+1272,jakarta,java,indonesia,asia,nan,
+1273,java central,java,indonesia,asia,nan,
+1274,java occidental,java,indonesia,asia,nan,
+1275,java oriental,java,indonesia,asia,nan,
+1276,yogyakarta,java,indonesia,asia,nan,
+1277,Mercure Manado Tateli Beach Resort,celebes,indonesia,asia,(4.0),564
+1278,Mercure Makassar Nexa Pettarani,celebes,indonesia,asia,(5.0),507
+1279,ibis Manado City Center Boulevard,celebes,indonesia,asia,(4.5),556
+1280,ibis Styles Makassar Sam Ratulangi,celebes,indonesia,asia,(4.5),127
+1281,Novotel Makassar Grand Shayla,celebes,indonesia,asia,(4.5),1764
+1282,ibis budget Makassar Airport,celebes,indonesia,asia,(4.5),1018
+1283,Novotel Manado Golf Resort & Convention Center,celebes,indonesia,asia,(4.5),1219
+1284,ibis Makassar City Center,celebes,indonesia,asia,(4.5),641
+1285,sulawesi du nord,celebes,indonesia,asia,nan,
+1286,sulawesi du sud,celebes,indonesia,asia,nan,
+1287,Mercure Jayapura,nouvelle guinee,indonesia,asia,(4.5),111
+1288,papouasie,nouvelle guinee,indonesia,asia,nan,
+1289,Novotel Bukittinggi,sumatra,indonesia,asia,(4.0),488
+1290,Banyan Tree Bintan,sumatra,indonesia,asia,(4.5),2765
+1291,Novotel Bangka - Hotel & Convention Centre,sumatra,indonesia,asia,(4.5),451
+1292,Mercure Padang,sumatra,indonesia,asia,(4.5),1165
+1293,Mercure Bengkulu,sumatra,indonesia,asia,(5.0),281
+1294,Cassia Bintan,sumatra,indonesia,asia,(4.5),1012
+1295,ibis Styles Batam Nagoya,sumatra,indonesia,asia,(4.0),259
+1296,Angsana Resort Bintan,sumatra,indonesia,asia,(4.0),2327
+1297,ibis Styles Medan Pattimura,sumatra,indonesia,asia,(4.5),139
+1298,Grand Mercure Maha Cipta Medan Angkasa,sumatra,indonesia,asia,(4.5),1722
+1299,Novotel Palembang - Hotel & Residence,sumatra,indonesia,asia,(4.5),1739
+1300,Novotel Pekanbaru,sumatra,indonesia,asia,(4.0),299
+1301,archipel de riau,sumatra,indonesia,asia,nan,
+1302,bengkulu,sumatra,indonesia,asia,nan,
+1303,iles bangka belitung,sumatra,indonesia,asia,nan,
+1304,lampung,sumatra,indonesia,asia,nan,
+1305,riau,sumatra,indonesia,asia,nan,
+1306,sumatra du nord,sumatra,indonesia,asia,nan,
+1307,sumatra du sud,sumatra,indonesia,asia,nan,
+1308,sumatra occidental,sumatra,indonesia,asia,nan,
+1309,Novotel Pune Nagar Road,pune,india,asia,(4.5),2546
+1310,ibis Pune Viman Nagar,pune,india,asia,(4.5),1506
+1311,ibis Pune Hinjewadi,pune,india,asia,(5.0),1040
+1312,ibis Navi Mumbai,navi mumbai,india,asia,(4.5),1583
+1313,Novotel Goa Resort & Spa,goa,india,asia,(4.5),3583
+1314,Novotel Goa Candolim,goa,india,asia,(4.5),3865
+1315,ibis Styles Goa Calangute,goa,india,asia,(4.5),2751
+1316,Mercure Goa Devaaya Resort,goa,india,asia,(4.5),259
+1317,Novotel Goa Dona Sylvia Resort,goa,india,asia,(4.5),4631
+1318,Novotel Goa Resort & Spa,candolim,india,asia,(4.5),3583
+1319,Novotel Goa Candolim,candolim,india,asia,(4.5),3865
+1320,Novotel Goa Candolim,calangute,india,asia,(4.5),3865
+1321,ibis Chennai City Centre,chennai,india,asia,(4.5),628
+1322,Novotel Chennai Chamiers Road,chennai,india,asia,(5.0),1520
+1323,ibis Chennai OMR,chennai,india,asia,(4.5),293
+1324,Novotel Chennai OMR,chennai,india,asia,(5.0),632
+1325,ibis Chennai Sipcot,chennai,india,asia,(4.5),1336
+1326,Novotel Chennai Sipcot,chennai,india,asia,(5.0),2203
+1327,Mercure Chennai Sriperumbudur,chennai,india,asia,(5.0),565
+1328,Novotel Chennai Sipcot,egattur,india,asia,(5.0),2203
+1329,Novotel Imagicaa Khopoli,khopoli,india,asia,(4.5),1712
+1330,Mercure Chennai Sriperumbudur,tamil nadu,india,asia,(5.0),565
+1331,Novotel Guwahati GS Road,guwahati,india,asia,(4.5),651
+1332,Grand Mercure Gandhinagar GIFT City,gujarat,india,asia,(5.0),857
+1333,Raffles Udaipur,udaipur,india,asia,nan,
+1334,Novotel Okinawa Naha,okinawa,japan,asia,(4.0),147
+1335,Mercure Okinawa Naha,okinawa,japan,asia,(4.0),884
+1336,ibis Styles Tokyo Bay,chiba,japan,asia,(4.0),9
+1337,Mercure Hida Takayama,gifu,japan,asia,nan,
+1338,Garrya Nijo Castle Kyoto,kyoto,japan,asia,nan,
+1339,ibis Styles Kyoto Shijo,kyoto,japan,asia,(4.0),10
+1340,Dhawa Yura Kyoto,kyoto,japan,asia,nan,
+1341,Mercure Kyoto Station,kyoto,japan,asia,(4.0),69
+1342,ibis Styles Kyoto Station,kyoto,japan,asia,(4.0),1513
+1343,ibis Styles Nagoya,nagoya,japan,asia,(4.5),21
+1344,Mercure Nagoya Cypress,nagoya,japan,asia,(4.0),288
+1345,ibis Styles Osaka Namba,osaka,japan,asia,(3.5),885
+1346,ibis Osaka Umeda,osaka,japan,asia,(4.5),172
+1347,Mercure Tokyu Stay Osaka Namba,osaka,japan,asia,(3.5),28
+1348,Ibis budget Osaka Umeda,osaka,japan,asia,(4.0),54
+1349,Swissôtel Nankai Osaka,osaka,japan,asia,(4.5),4344
+1350,Mercure Sapporo,sapporo,japan,asia,(4.5),1544
+1351,ibis Styles Sapporo,sapporo,japan,asia,(4.5),731
+1352,Mercure Tokyo Ginza,tokyo,japan,asia,(4.0),1878
+1353,ibis Styles Tokyo Ginza,tokyo,japan,asia,(4.0),116
+1354,Pullman Tokyo Tamachi,tokyo,japan,asia,(4.5),343
+1355,Mercure Yokosuka,yokosuka,japan,asia,(4.0),308
+1356,Novotel Bishkek City Center,bishkek,kyrgyzstan,asia,nan,
+1357,Sofitel Phnom Penh Phokeethra,phnom penh,cambodia,asia,(4.5),2032
+1358,Novotel Phnom Penh BKK 1,phnom penh,cambodia,asia,nan,
+1359,Raffles Hotel Le Royal,phnom penh,cambodia,asia,(4.5),2494
+1360,Tribe Phnom Penh Post Office Square,phnom penh,cambodia,asia,(5.0),169
+1361,Sofitel Angkor Phokeethra Golf & Spa Resort,siem reap,cambodia,asia,(5.0),4743
+1362,Raffles Grand Hotel d'Angkor,siem reap,cambodia,asia,(4.5),66
+1363,ibis Styles Siem Reap,siem reap,cambodia,asia,(4.5),136
+1364,ibis Ambassador Busan City Centre,busan,south korea,asia,(4.0),947
+1365,ibis budget Ambassador Busan Haeundae,busan,south korea,asia,(4.0),402
+1366,ibis Ambassador Busan Haeundae,busan,south korea,asia,(3.5),195
+1367,Mercure Ambassador Jeju,seogwiposi,south korea,asia,nan,
+1368,Grand Mercure Ambassador Changwon,changwon,south korea,asia,(3.5),433
+1369,Gyeongwonjae Ambassador Incheon - Associated with Accor,incheon,south korea,asia,(5.0),559
+1370,ibis Styles Ambassador Incheon Airport,incheon,south korea,asia,nan,
+1371,Sofitel Ambassador Seoul Hotel & Serviced Residences,seoul,south korea,asia,(5.0),332
+1372,ibis Styles Ambassador Seoul Gangnam,seoul,south korea,asia,(4.5),584
+1373,Novotel Ambassador Seoul Gangnam,seoul,south korea,asia,(4.5),2102
+1374,Mondrian Seoul Itaewon,seoul,south korea,asia,(4.5),313
+1375,Banyan Tree Club & Spa Seoul,seoul,south korea,asia,(4.5),774
+1376,The Ambassador Seoul - A Pullman Hotel,seoul,south korea,asia,(5.0),227
+1377,Novotel Ambassador Seoul Dongdaemun Hotels & Residences,seoul,south korea,asia,(4.5),549
+1378,ibis Styles Ambassador Seoul Myeongdong,seoul,south korea,asia,(4.5),1557
+1379,ibis Ambassador Seoul Myeongdong,seoul,south korea,asia,(4.5),868
+1380,ibis Ambassador Seoul Insadong,seoul,south korea,asia,(4.0),1203
+1381,ibis Styles Ambassador Seoul Yongsan - Seoul Dragon City,seoul,south korea,asia,(4.5),205
+1382,Novotel Ambassador Seoul Yongsan - Seoul Dragon City,seoul,south korea,asia,(4.0),181
+1383,ibis Ambassador Suwon,suwon,south korea,asia,(4.0),298
+1384,Novotel Ambassador Suwon,suwon,south korea,asia,(4.5),411
+1385,Mercure Ambassador Ulsan,ulsan,south korea,asia,(4.5),112
+1386,Sofitel Luang Prabang,luang prabang,lao people's democratic republic,asia,(4.5),1030
+1387,Maison Souvannaphoum Hotel,luang prabang,lao people's democratic republic,asia,(4.5),1090
+1388,3 Nagas Luang Prabang - MGallery,luang prabang,lao people's democratic republic,asia,(4.5),947
+1389,Pullman Luang Prabang,luang prabang,lao people's democratic republic,asia,(5.0),340
+1390,ibis Vientiane Nam Phu,vientiane,lao people's democratic republic,asia,(4.0),482
+1391,Mövenpick Colombo,colombo,sri lanka,asia,(4.5),2101
+1392,The Lake Garden Nay Pyi Taw - MGallery,nay pyi taw,myanmar,asia,(4.5),269
+1393,Novotel Inle Lake Myat Min,nyaung shwe,myanmar,asia,(4.5),730
+1394,Sofitel Inle Lake Myat Min,nyaung shwe,myanmar,asia,(5.0),257
+1395,Mercure Mandalay Hill Resort,mandalay,myanmar,asia,(4.0),1782
+1396,ibis Styles Mandalay Centre,mandalay,myanmar,asia,nan,
+1397,Pullman Yangon Centrepoint,yangon,myanmar,asia,(5.0),360
+1398,Novotel Yangon Max,yangon,myanmar,asia,(5.0),2947
+1399,Mercure Yangon Kaba Aye,yangon,myanmar,asia,(4.5),408
+1400,Novotel Ulaanbaatar,ulaanbaatar,mongolia,asia,(4.5),51
+1401,ibis Styles Ulaanbaatar Polaris,ulaanbaatar,mongolia,asia,(4.5),75
+1402,Hamilton Princess & Beach Club - A Fairmont Managed Hotel,hamilton,bermuda,north america,(4.5),2762
+1403,Fairmont Southampton,southampton,bermuda,north america,(4.0),5189
+1404,Fairmont Hotel Macdonald,alberta,canada,north america,(4.5),1727
+1405,Fairmont Jasper Park Lodge,alberta,canada,north america,(4.0),6362
+1406,Fairmont Banff Springs,alberta,canada,north america,(4.5),9371
+1407,Fairmont Château Lake Louise,alberta,canada,north america,(4.5),10014
+1408,Fairmont Palliser,alberta,canada,north america,(4.0),3343
+1409,lake louise,alberta,canada,north america,nan,
+1410,banff,alberta,canada,north america,nan,
+1411,calgary,alberta,canada,north america,nan,
+1412,edmonton,alberta,canada,north america,nan,
+1413,jasper,alberta,canada,north america,nan,
+1414,Fairmont Empress,british columbia,canada,north america,(4.0),5276
+1415,Fairmont Vancouver Airport,british columbia,canada,north america,(4.5),4671
+1416,Hotel Belmont Vancouver MGallery,british columbia,canada,north america,nan,
+1417,Fairmont Waterfront,british columbia,canada,north america,(4.5),4515
+1418,Fairmont Château Whistler,british columbia,canada,north america,(4.5),5010
+1419,Fairmont Hotel Vancouver,british columbia,canada,north america,(4.0),4794
+1420,Fairmont Pacific Rim,british columbia,canada,north america,(4.5),4177
+1421,whistler,british columbia,canada,north america,nan,
+1422,vancouver,british columbia,canada,north america,nan,
+1423,victoria,british columbia,canada,north america,nan,
+1424,Fairmont Winnipeg,manitoba,canada,north america,(4.0),1550
+1425,winnipeg,manitoba,canada,north america,nan,
+1426,Novotel Toronto North York,ontario,canada,north america,(3.5),1226
+1427,Fairmont Royal York,ontario,canada,north america,(4.0),1524
+1428,Novotel Toronto Centre,ontario,canada,north america,(4.5),535
+1429,Novotel Ottawa City Centre,ontario,canada,north america,(4.0),1982
+1430,Fairmont Château Laurier,ontario,canada,north america,(4.0),4494
+1431,Novotel Toronto Vaughan,ontario,canada,north america,(4.0),628
+1432,ottawa,ontario,canada,north america,nan,
+1433,toronto,ontario,canada,north america,nan,
+1434,vaughan,ontario,canada,north america,nan,
+1435,Fairmont Le Manoir Richelieu,quebec,canada,north america,(4.0),3817
+1436,Fairmont Le Château Montebello,quebec,canada,north america,(4.0),3065
+1437,Fairmont Tremblant,quebec,canada,north america,(4.0),2374
+1438,Novotel Montreal Centre,quebec,canada,north america,(4.0),2252
+1439,Fairmont The Queen Elizabeth,quebec,canada,north america,(4.0),1659
+1440,Fairmont Le Château Frontenac,quebec,canada,north america,(4.5),7678
+1441,Sofitel Montreal Golden Mile,quebec,canada,north america,(4.5),2893
+1442,Novotel Montreal Airport,quebec,canada,north america,(4.0),699
+1443,saint laurent,quebec,canada,north america,nan,
+1444,la malbaie,quebec,canada,north america,nan,
+1445,montebello,quebec,canada,north america,nan,
+1446,mont tremblant,quebec,canada,north america,nan,
+1447,montreal,quebec,canada,north america,nan,
+1448,quebec,quebec,canada,north america,nan,
+1449,ibis Aguascalientes Norte,aguascalientes,mexico,north america,(3.5),252
+1450,ibis budget Aguascalientes,aguascalientes,mexico,north america,(4.0),18
+1451,aguascalientes,aguascalientes,mexico,north america,nan,
+1452,Ibis Tijuana Zona Rio,baja california,mexico,north america,(3.5),61
+1453,tijuana,baja california,mexico,north america,nan,
+1454,ibis Juarez Consulado,chihuahua,mexico,north america,(3.0),212
+1455,ibis Chihuahua,chihuahua,mexico,north america,(4.0),309
+1456,chihuahua,chihuahua,mexico,north america,nan,
+1457,ciudad juarez,chihuahua,mexico,north america,nan,
+1458,ibis Torreón,coahuila,mexico,north america,(4.0),24
+1459,torreon,coahuila,mexico,north america,nan,
+1460,Mondrian Mexico City Condesa,federal district,mexico,north america,nan,
+1461,The Paragon Hotel Mexico City Santa Fe By Accor,federal district,mexico,north america,nan,
+1462,ibis Styles Mexico Zona Rosa,federal district,mexico,north america,(4.0),641
+1463,Novotel Mexico City World Trade Center,federal district,mexico,north america,nan,
+1464,Novotel Mexico City Santa Fe,federal district,mexico,north america,(3.5),343
+1465,ibis Mexico Perinorte,federal district,mexico,north america,(3.5),256
+1466,ibis Mexico Alameda,federal district,mexico,north america,(3.5),688
+1467,Sofitel Mexico City Reforma,federal district,mexico,north america,(5.0),1320
+1468,ibis Mexico Tlalnepantla,federal district,mexico,north america,(3.5),32
+1469,mexico city,federal district,mexico,north america,nan,
+1470,santa fe,federal district,mexico,north america,nan,
+1471,Fairmont Heritage Place Acapulco,guerrero,mexico,north america,(5.0),75
+1472,Banyan Tree Cabo Marqués,guerrero,mexico,north america,(5.0),1802
+1473,acapulco,guerrero,mexico,north america,nan,
+1474,ibis Irapuato,guanajuato,mexico,north america,(4.0),54
+1475,irapuato,guanajuato,mexico,north america,nan,
+1476,ibis Guadalajara Expo,jalisco,mexico,north america,(3.5),543
+1477,chapala,jalisco,mexico,north america,nan,
+1478,guadalajara,jalisco,mexico,north america,nan,
+1479,Novotel Mexico City Toreo,mexico state,mexico,north america,nan,
+1480,ibis Mexico Perinorte,mexico state,mexico,north america,(3.5),256
+1481,cuautitlan izcalli,mexico state,mexico,north america,nan,
+1482,naucalpan,mexico state,mexico,north america,nan,
+1483,ibis Monterrey Aeropuerto,nuevo león,mexico,north america,(3.0),439
+1484,Novotel Monterrey Valle,nuevo león,mexico,north america,(3.5),413
+1485,ibis Monterrey Valle,nuevo león,mexico,north america,(3.5),363
+1486,monterrey,nuevo león,mexico,north america,nan,
+1487,san pedro,nuevo león,mexico,north america,nan,
+1488,apodaca,nuevo león,mexico,north america,nan,
+1489,Banyan Tree Puebla,puebla,mexico,north america,nan,
+1490,puebla,puebla,mexico,north america,nan,
+1491,ibis Queretaro,querétaro,mexico,north america,(3.5),344
+1492,queretaro,querétaro,mexico,north america,nan,
+1493,21c Museum Hotel Bentonville,arkansas,united states,north america,(4.5),868
+1494,bentonville,arkansas,united states,north america,nan,
+1495,Fairmont Scottsdale Princess,arizona,united states,north america,(4.5),5151
+1496,scottsdale,arizona,united states,north america,nan,
+1497,Mama Shelter Los Angeles,california,united states,north america,(4.0),842
+1498,Sofitel Los Angeles at Beverly Hills,california,united states,north america,nan,
+1499,Claremont Club & Spa - A Fairmont Hotel,california,united states,north america,(4.0),2054
+1500,Fairmont Century Plaza,california,united states,north america,nan,
+1501,Fairmont Miramar - Hotel & Bungalows,california,united states,north america,(4.5),3928
+1502,Fairmont Heritage Place - Ghirardelli Square,california,united states,north america,(4.5),878
+1503,Fairmont Grand Del Mar,california,united states,north america,(5.0),2333
+1504,Fairmont San Francisco,california,united states,north america,(4.5),5024
+1505,Fairmont Sonoma Mission Inn & Spa,california,united states,north america,(4.0),2550
+1506,berkeley,california,united states,north america,nan,
+1507,santa monica,california,united states,north america,nan,
+1508,sonoma,california,united states,north america,nan,
+1509,los angeles,california,united states,north america,nan,
+1510,san diego,california,united states,north america,nan,
+1511,san francisco,california,united states,north america,nan,
+1512,Fairmont Heritage Place - Franz Klammer Lodge,colorado,united states,north america,(4.5),294
+1513,telluride,colorado,united states,north america,nan,
+1514,Fairmont Washington D.C. Georgetown,district of columbia,united states,north america,(4.5),3953
+1515,Sofitel Washington DC Lafayette Square,district of columbia,united states,north america,(4.5),3908
+1516,"washington, d. c.",district of columbia,united states,north america,nan,
+1517,Faena Hotel Miami Beach,florida,united states,north america,(4.5),2227
+1518,Pullman Miami Airport,florida,united states,north america,(4.0),4936
+1519,Berkeley Park MGallery Hotel Collection,florida,united states,north america,nan,
+1520,Redbury South Beach,florida,united states,north america,(4.5),2219
+1521,SLS BRICKELL HOTEL AND RESIDENCES,florida,united states,north america,nan,
+1522,Casa Faena Miami Beach,florida,united states,north america,nan,
+1523,Novotel Miami Brickell,florida,united states,north america,(4.5),2975
+1524,SLS South Beach Miami,florida,united states,north america,(4.5),3589
+1525,SLS LUX Brickell,florida,united states,north america,nan,
+1526,miami beach,florida,united states,north america,nan,
+1527,miami,florida,united states,north america,nan,
+1528,Ala Moana Honolulu by Mantra,hawai'i,united states,north america,(4.0),5135
+1529,Fairmont Orchid - Hawaii,hawai'i,united states,north america,(4.5),5822
+1530,Fairmont Kea Lani - Maui,hawai'i,united states,north america,(4.5),6091
+1531,maui,hawai'i,united states,north america,nan,
+1532,hawai’i,hawai'i,united states,north america,nan,
+1533,honolulu,hawai'i,united states,north america,nan,
+1534,Swissôtel Chicago,illinois,united states,north america,(4.0),6473
+1535,21c Museum Hotel Chicago,illinois,united states,north america,(4.0),277
+1536,Sofitel Chicago Magnificent Mile,illinois,united states,north america,(4.5),5385
+1537,Fairmont Chicago - Millennium Park,illinois,united states,north america,(4.0),4084
+1538,chicago,illinois,united states,north america,nan,
+1539,21c Museum Hotel Louisville,kentucky,united states,north america,(4.5),1917
+1540,21c Museum Hotel Lexington,kentucky,united states,north america,(4.5),1109
+1541,lexington,kentucky,united states,north america,nan,
+1542,louisville,kentucky,united states,north america,nan,
+1543,Fairmont Copley Plaza Boston,massachusetts,united states,north america,(4.5),4574
+1544,Raffles Boston,massachusetts,united states,north america,nan,
+1545,boston,massachusetts,united states,north america,nan,
+1546,21c Museum Hotel Kansas City,missouri,united states,north america,(4.5),280
+1547,21c Museum Hotel St Louis,missouri,united states,north america,nan,
+1548,saint louis,missouri,united states,north america,nan,
+1549,kansas city,missouri,united states,north america,nan,
+1550,21c Museum Hotel Durham,north carolina,united states,north america,(4.0),929
+1551,durham,north carolina,united states,north america,nan,
